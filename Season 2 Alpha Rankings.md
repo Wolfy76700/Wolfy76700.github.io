@@ -6,9 +6,9 @@ __Last Updated:__ 1 November 2021 13:24 CET
 
 __Tournaments included:__
 
-- Vortex Gallery 2021 - ARMS (JP)
-- Vortex Gallery 2021 - ARMS (EU)
-- Vortex Gallery 2021 - ARMS (NA)
+- [Vortex Gallery 2021 - ARMS (JP)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-japan/overview)
+- [Vortex Gallery 2021 - ARMS (EU)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-eu/overview)
+- [Vortex Gallery 2021 - ARMS (NA)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-na/overview)
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:
@@ -69,12 +69,12 @@ Rank | Player | Alpha Points
 
 ## Samurai Shodown (Nintendo Switch - Europe)
 
-__Last updated:__ 1 November 2021 13:24
+__Last updated:__ 1 November 2021 13:24 CET
 
 __Tournaments included:__
 
-- Battle for the Den S02E01  
-- Battle for the Den S02E03  
+- [Battle for the Den S02E01](https://challonge.com/fr/BattleDen_S02E01)  
+- [Battle for the Den S02E03](https://challonge.com/fr/BattleDen_S02E03)  
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:

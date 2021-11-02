@@ -10,6 +10,10 @@ __Tournaments included:__
 - [Vortex Gallery 2021 - ARMS (EU)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-eu/overview)
 - [Vortex Gallery 2021 - ARMS (NA)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-na/overview)
 
+__Upcoming:__
+
+- [Battle for the Den S02E02](https://challonge.com/fr/BattleDen_S02E02)
+
 Rank | Player | Alpha Points
 :---: | :----: | :----:
 1 | IluZ \| Twinedfive0 | 12330
@@ -75,6 +79,10 @@ __Tournaments included:__
 
 - [Battle for the Den S02E01](https://challonge.com/fr/BattleDen_S02E01)  
 - [Battle for the Den S02E03](https://challonge.com/fr/BattleDen_S02E03)  
+
+__Upcoming:__
+
+- [Battle for the Den S02E05](https://challonge.com/fr/BattleDen_S02E05)
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:

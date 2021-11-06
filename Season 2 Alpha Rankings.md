@@ -2,74 +2,76 @@
 
 ## ARMS (Global)
 
-__Last Updated:__ 1 November 2021 13:24 CET
+__Last Updated:__ 6 November 2021 15:26 CET
 
 __Tournaments included:__
 
 - [Vortex Gallery 2021 - ARMS (JP)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-japan/overview)
 - [Vortex Gallery 2021 - ARMS (EU)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-eu/overview)
 - [Vortex Gallery 2021 - ARMS (NA)](https://smash.gg/tournament/vortex-gallery-2021/event/arms-na/overview)
+- [Battle for the Den S02E02](https://challonge.com/fr/BattleDen_S02E02)
 
 __Upcoming:__
 
-- [Battle for the Den S02E02](https://challonge.com/fr/BattleDen_S02E02)
+- Battle for the Den S02E06
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:
-1 | IluZ \| Twinedfive0 | 12330
-2 | Ripha | 12323
-3 | KurayashikiTakajin | 12320
-4 | replicant | 12192
-5 | Serp | 12189
-6 | RandomPixelater | 12154
-7 | Paa | 12151
-8 | Illuz \| Mileve | 12135
-9 | IB \| Woomy | 12131
-10 | e-co | 12129
-11 | Yuki | 12127
-12 | Iceman92 | 12089
-13 | FP \| Taco Cat | 12083
-14 | Yam | 12081
-15 | DTN \| KHU | 12080
-16 | Grimwood96 | 12079
-17 | Mr_Adal | 12077
-18 | Jiko | 12075
-19 | Kuru | 12042
-20 | ABC \| Luis | 12031
-21 | FP \| FleshEater49 | 12029
-22 | ER \| False King | 12029
-23 | Racso | 12028
-24 | HEI | 12026
-25 | SoraFirestorm | 12026
-26 | Ani/annie | 12025
-27 | POKOYAN | 12025
-28 | Shateau | 12024
-29 | eXTeeGi | 11978
-30 | Rororo | 11976
-31 | NinjinNinjin | 11976
-32 | jkItsMe | 11976
-33 | KikiTheWitch | 11976
-34 | Izzy | 11976
-35 | simo | 11975
-36 | IceDash | 11975
-37 | LC \| pantherfanwill | 11975
-38 | Iloria | 11974
-39 | FP \| TreeBird | 11973
-40 | Tanji1684 | 11972
-41 | Eddy | 11929
-42 | Lachesism | 11927
-43 | YoshiBowser | 11926
-44 | moonbeat | 11924
-45 | TORYO | 11923
-46 | Ai-chan | 11923
-47 | BeeLy1011 | 11923
-48 | Yuuda | 11923
-49 | antlion | 11923
-50 | GamingWarthog | 11923
-51 | Kataparuto | 11923
-52 | LC \| Furniturethecat | 11922
-53 | SAVEARMS \| Pawl S.Lax | 11922
-54 | Prpn# \| Kirakun | 11921
+1 | T3kn0path1c | 12525
+2 | IluZ \| Twinedfive0 | 12333
+3 | KurayashikiTakajin | 12323
+4 | replicant | 12197
+5 | Ripha | 12193
+6 | Serp | 12187
+7 | RandomPixelater | 12157
+8 | Paa | 12152
+9 | Mr_Adal | 12148
+10 | Illuz \| Mileve | 12135
+11 | IB \| Woomy | 12130
+12 | Yuki | 12128
+13 | e-co | 12125
+14 | Iceman92 | 12085
+15 | Grimwood96 | 12082
+16 | Jiko | 12080
+17 | DTN \| KHU | 12080
+18 | Kuru | 12042
+19 | ABC \| Luis | 12030
+20 | POKOYAN | 12029
+21 | Racso | 12028
+22 | Shateau | 12027
+23 | ER \| False King | 12027
+24 | FP \| FleshEater49 | 12026
+25 | HEI | 12024
+26 | SoraFirestorm | 12024
+27 | Ani/annie | 12023
+28 | KikiTheWitch | 11977
+29 | jkItsMe | 11977
+30 | pantherfanwill | 11976
+31 | Rororo | 11975
+32 | Izzy | 11975
+33 | NinjinNinjin | 11975
+34 | Tanji1684 | 11974
+35 | FP \| TreeBird | 11974
+36 | Iloria | 11973
+37 | eXTeeGi | 11973
+38 | IceDash | 11973
+39 | simo | 11972
+40 | Eddy | 11929
+41 | moonbeat | 11927
+42 | Lachesism | 11926
+43 | BeeLy1011 | 11926
+44 | YoshiBowser | 11924
+45 | SAVEARMS \| Pawl S.Lax | 11924
+46 | GamingWarthog | 11924
+47 | Prpn# \| Kirakun | 11923
+48 | TORYO | 11923
+49 | Furniturethecat | 11923
+50 | Kataparuto | 11923
+51 | Ai-chan | 11923
+52 | antlion | 11922
+53 | Yuuda | 11922
+54 | Yam | 11902
+55 | StarMatter | 11682
 
 ## Samurai Shodown (Nintendo Switch - Europe)
 
@@ -86,10 +88,10 @@ __Upcoming:__
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:
-1 | kenshin055 | 12546
-2 | Azuki_FR | 12249
-3 | davegrind | 12030
-4 | Solarius64 | 11930
-5 | ultimefleau | 11917
-6 | UB_Hawkeye | 11817
-7 | Nirvanael | 11729
+1 | kenshin055 | 12551
+2 | Azuki_FR | 12231
+3 | davegrind | 12031
+4 | ultimefleau | 11932
+5 | Solarius64 | 11923
+6 | UB_Hawkeye | 11820
+7 | Nirvanael | 11731

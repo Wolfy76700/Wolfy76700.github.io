@@ -13,7 +13,7 @@ __Tournaments included:__
 
 __Upcoming:__
 
-- Battle for the Den S02E06
+- [Battle for the Den S02E06](https://challonge.com/fr/BattleDen_S02E06)
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:

@@ -14,6 +14,8 @@ __Tournaments included:__
 
 __Upcoming:__
 
+- [Battle for the Den S02E09](https://challonge.com/fr/BattleDen_S02E09)
+- [Battle for the Den S02E10](https://challonge.com/fr/BattleDen_S02E10)
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:
@@ -91,6 +93,7 @@ __Tournaments included:__
 
 __Upcoming:__
 
+- [Battle for the Den S02E11](https://challonge.com/fr/BattleDen_S02E11)
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:

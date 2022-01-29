@@ -89,7 +89,7 @@ Rank | Player | Alpha Points
 
 ## Samurai Shodown (Nintendo Switch - Europe)
 
-__Last updated:__ 18 December 2021 22:40 CET
+__Last updated:__ 29 January 2022 22:40 CET
 
 __Tournaments included:__
 
@@ -97,17 +97,18 @@ __Tournaments included:__
 - [Battle for the Den S02E03](https://challonge.com/BattleDen_S02E03)  
 - [Battle for the Den S02E05](https://challonge.com/BattleDen_S02E05)
 - [Battle for the Den S02E07](https://challonge.com/BattleDen_S02E07)
+- [Battle for the Den S02E11](https://challonge.com/BattleDen_S02E11)
 
 __Upcoming:__
 
-- [Battle for the Den S02E11](https://challonge.com/BattleDen_S02E11)
+- [Battle for the Den S02E14](https://challonge.com/BattleDen_S02E14)
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:
-1 | kenshin055 | 12942
-2 | Azuki_FR | 12099
-3 | davegrind | 11989
+1 | kenshin055 | 13214
+2 | Azuki_FR | 12034
+3 | ultimefleau | 11940
 4 | Solarius64 | 11923
 5 | Nirvanael | 11834
-6 | ultimefleau | 11833
-7 | UB_Hawkeye | 11820
+6 | UB_Hawkeye | 11820
+7 | davegrind | 11769

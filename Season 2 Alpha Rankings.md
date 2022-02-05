@@ -2,7 +2,7 @@
 
 ## ARMS (Global)
 
-__Last Updated:__ 16 january 2022 00:10 CET
+__Last Updated:__ 6 February 2022 00:30 CET
 
 __Tournaments included:__
 
@@ -13,38 +13,38 @@ __Tournaments included:__
 - [Battle for the Den S02E06](https://challonge.com/BattleDen_S02E06)
 - [Battle for the Den S02E09](https://challonge.com/BattleDen_S02E09)
 - [Battle for the Den S02E10](https://challonge.com/BattleDen_S02E10)
+- [Battle for the Den S02E13](https://challonge.com/BattleDen_S02E13)
 
 __Upcoming:__
 
 - [Battle for the Den S02E12](https://challonge.com/BattleDen_S02E12)
-- [Battle for the Den S02E13](https://challonge.com/BattleDen_S02E13)
 
 Rank | Player | Alpha Points
 :---: | :----: | :----:
-1 | T3kn0path1c | 12525
-2 | Ripha | 12462
-3 | Izzy | 12435
+1 | Ripha | 12716
+2 | Izzy | 12611
+3 | T3kn0path1c | 12525
 4 | IluZ \| Twinedfive0 | 12333
 5 | KurayashikiTakajin | 12323
 6 | Mystery_Man_Bro | 12199
 7 | replicant | 12197
 8 | Serp | 12187
 9 | RandomPixelater | 12157
-10 | Paa | 12152
-11 | Mr_Adal | 12148
-12 | Bennytek | 12135
-13 | Illuz \| Mileve | 12135
-14 | IB \| Woomy | 12130
-15 | Yuki | 12128
-16 | e-co | 12125
-17 | midonnay | 12098
-18 | Iceman92 | 12085
-19 | Grimwood96 | 12082
-20 | Jiko | 12080
-21 | DTN \| KHU | 12080
-22 | Danon | 12062
-23 | Kuru | 12042
-24 | Mister_Adal | 12033
+10 | Danon | 12156
+11 | Paa | 12152
+12 | Mr_Adal | 12148
+13 | Bennytek | 12135
+14 | Illuz \| Mileve | 12135
+15 | IB \| Woomy | 12130
+16 | Yuki | 12128
+17 | e-co | 12125
+18 | midonnay | 12098
+19 | Iceman92 | 12085
+20 | Grimwood96 | 12082
+21 | Jiko | 12080
+22 | DTN \| KHU | 12080
+23 | Mister_Adal | 12060
+24 | Kuru | 12042
 25 | ABC \| Luis | 12030
 26 | POKOYAN | 12029
 27 | Racso | 12028
@@ -65,27 +65,28 @@ Rank | Player | Alpha Points
 42 | IceDash | 11973
 43 | simo | 11972
 44 | Eddy | 11929
-45 | MrTable3 | 11927
-46 | moonbeat | 11927
-47 | Lachesism | 11926
-48 | BeeLy1011 | 11926
-49 | SAVEARMS \| Pawl S.Lax | 11924
-50 | GamingWarthog | 11924
-51 | Prpn# \| Kirakun | 11923
-52 | TORYO | 11923
-53 | Furniturethecat | 11923
-54 | Kataparuto | 11923
-55 | Ai-chan | 11923
-56 | antlion | 11922
-57 | Yuuda | 11922
-58 | RazieI | 11903
-59 | Yam | 11902
-60 | pantherfanwill | 11901
-61 | Mr_Kaos | 11827
-62 | Kefgeru | 11820
-63 | Giusesbica004 | 11803
-64 | StarMatter | 11801
-65 | YoshiBowser | 11568
+45 | moonbeat | 11927
+46 | Lachesism | 11926
+47 | BeeLy1011 | 11926
+48 | GamingWarthog | 11924
+49 | Prpn# \| Kirakun | 11923
+50 | TORYO | 11923
+51 | Furniturethecat | 11923
+52 | Kataparuto | 11923
+53 | Ai-chan | 11923
+54 | antlion | 11922
+55 | Yuuda | 11922
+56 | RazieI | 11903
+57 | Yam | 11902
+58 | pantherfanwill | 11901
+59 | Redghost438 | 11877
+60 | Mr_Kaos | 11827
+61 | Kefgeru | 11820
+62 | SAVEARMS \| Pawl S.Lax | 11812
+63 | MrTable3 | 11804
+64 | Giusesbica004 | 11803
+65 | StarMatter | 11801
+66 | YoshiBowser | 11568
 
 ## Samurai Shodown (Nintendo Switch - Europe)
 

@@ -2,7 +2,7 @@
 
 ## ARMS (Global)
 
-__Last Updated:__ 6 February 2022 00:30 CET
+__Last Updated:__ 13 March 2022 00:42 CET
 
 __Tournaments included:__
 
@@ -14,80 +14,82 @@ __Tournaments included:__
 - [Battle for the Den S02E09](https://challonge.com/BattleDen_S02E09)
 - [Battle for the Den S02E10](https://challonge.com/BattleDen_S02E10)
 - [Battle for the Den S02E13](https://challonge.com/BattleDen_S02E13)
-
-__Upcoming:__
-
 - [Battle for the Den S02E12](https://challonge.com/BattleDen_S02E12)
 - [Battle for the Den S02E18](https://challonge.com/BattleDen_S02E18)
 
+__Upcoming:__
+
 Rank | Player | Alpha Points
 :---: | :----: | :----:
-1 | Ripha | 12716
+1 | Ripha | 12806
 2 | Izzy | 12611
 3 | T3kn0path1c | 12525
-4 | IluZ \| Twinedfive0 | 12333
-5 | KurayashikiTakajin | 12323
-6 | Mystery_Man_Bro | 12199
-7 | replicant | 12197
-8 | Serp | 12187
-9 | RandomPixelater | 12157
-10 | Danon | 12156
-11 | Paa | 12152
-12 | Mr_Adal | 12148
-13 | Bennytek | 12135
-14 | Illuz \| Mileve | 12135
-15 | IB \| Woomy | 12130
+4 | IB \| Woomy | 12448
+5 | IluZ \| Twinedfive0 | 12333
+6 | KurayashikiTakajin | 12323
+7 | jeffri | 12282
+8 | Mystery_Man_Bro | 12199
+9 | replicant | 12197
+10 | Serp | 12187
+11 | RandomPixelater | 12157
+12 | Danon | 12156
+13 | Paa | 12152
+14 | Mr_Adal | 12148
+15 | Illuz \| Mileve | 12135
 16 | Yuki | 12128
 17 | e-co | 12125
-18 | midonnay | 12098
+18 | midonnay | 12108
 19 | Iceman92 | 12085
 20 | Grimwood96 | 12082
 21 | Jiko | 12080
 22 | DTN \| KHU | 12080
 23 | Mister_Adal | 12060
 24 | Kuru | 12042
-25 | ABC \| Luis | 12030
-26 | POKOYAN | 12029
-27 | Racso | 12028
-28 | Shateau | 12027
-29 | ER \| False King | 12027
-30 | FleshEater49 | 12026
-31 | HEI | 12024
-32 | SoraFirestorm | 12024
-33 | Ani/annie | 12023
-34 | KikiTheWitch | 11977
-35 | jkItsMe | 11977
-36 | Rororo | 11975
-37 | NinjinNinjin | 11975
-38 | Tanji1684 | 11974
-39 | FP \| TreeBird | 11974
-40 | Iloria | 11973
-41 | eXTeeGi | 11973
-42 | IceDash | 11973
-43 | simo | 11972
-44 | Eddy | 11929
-45 | moonbeat | 11927
-46 | Lachesism | 11926
-47 | BeeLy1011 | 11926
-48 | GamingWarthog | 11924
-49 | Prpn# \| Kirakun | 11923
-50 | TORYO | 11923
-51 | Furniturethecat | 11923
-52 | Kataparuto | 11923
-53 | Ai-chan | 11923
-54 | antlion | 11922
-55 | Yuuda | 11922
-56 | RazieI | 11903
-57 | Yam | 11902
-58 | pantherfanwill | 11901
-59 | Redghost438 | 11877
-60 | Mr_Kaos | 11827
-61 | Kefgeru | 11820
-62 | SAVEARMS \| Pawl S.Lax | 11812
-63 | MrTable3 | 11804
-64 | Giusesbica004 | 11803
-65 | StarMatter | 11801
-66 | YoshiBowser | 11568
+25 | MrTable3 | 12035
+26 | ABC \| Luis | 12030
+27 | POKOYAN | 12029
+28 | Racso | 12028
+29 | Shateau | 12027
+30 | ER \| False King | 12027
+31 | FleshEater49 | 12026
+32 | HEI | 12024
+33 | SoraFirestorm | 12024
+34 | Ani/annie | 12023
+35 | KikiTheWitch | 11977
+36 | jkItsMe | 11977
+37 | Rororo | 11975
+38 | NinjinNinjin | 11975
+39 | Tanji1684 | 11974
+40 | FP \| TreeBird | 11974
+41 | Iloria | 11973
+42 | eXTeeGi | 11973
+43 | IceDash | 11973
+44 | simo | 11972
+45 | Eddy | 11929
+46 | moonbeat | 11927
+47 | Lachesism | 11926
+48 | BeeLy1011 | 11926
+49 | GamingWarthog | 11924
+50 | Prpn# \| Kirakun | 11923
+51 | TORYO | 11923
+52 | Furniturethecat | 11923
+53 | Kataparuto | 11923
+54 | Ai-chan | 11923
+55 | antlion | 11922
+56 | Yuuda | 11922
+57 | Bennytek | 11905
+58 | RazieI | 11903
+59 | Yam | 11902
+60 | pantherfanwill | 11901
+61 | Redghost438 | 11877
+62 | Mr_Kaos | 11827
+63 | IB \| Ferrarikid | 11816
+64 | IB \| Disobeyed | 11811
+65 | Kefgeru | 11811
+66 | Giusesbica004 | 11803
+67 | StarMatter | 11801
+68 | SAVEARMS \| Pawl S.Lax | 11749
+69 | YoshiBowser | 11568
 
 ## Samurai Shodown (Nintendo Switch - Europe)
 

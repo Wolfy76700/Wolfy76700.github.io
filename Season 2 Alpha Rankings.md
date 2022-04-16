@@ -104,10 +104,6 @@ __Tournaments included:__
 - [Battle for the Den S02E11](https://challonge.com/BattleDen_S02E11)
 - [Battle for the Den S02E14](https://challonge.com/BattleDen_S02E14)
 
-__Upcoming:__
-
-- [Battle for the Den S02E16](https://challonge.com/BattleDen_S02E16)
-
 Rank | Player | Alpha Points
 :---: | :----: | :----:
 1 | kenshin055 | 13276

@@ -29,7 +29,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [The King of Fighters XV](#the-king-of-fighters-xv)
     - [Samurai Shodown (2019)](#samurai-shodown-2019)
     - [Them's Fightin' Herds](#thems-fightin-herds)
-  - [ADDENDUM](#addendum)
+  - [Addendum](#addendum)
 
 ## Preface
 
@@ -180,7 +180,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 
-## ADDENDUM
+## Addendum
 
 - Players are advised to use an Ethernet cable to connect to their router. In case the device you're using does not have an Ethernet port (e.g. Nintendo Switch, Laptop, Smartphone...), here is our recommended USB to Ethernet adapter: [United Kingdom](https://www.amazon.co.uk/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/), [France](https://www.amazon.fr/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/), [Netherlands](https://www.amazon.nl/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/), [Germany](https://www.amazon.de/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/)
 

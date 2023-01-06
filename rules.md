@@ -5,6 +5,32 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
 
 ***
 
+## Table of contents
+- [Battle for the Den General Ruleset](#battle-for-the-den-general-ruleset)
+  - [Table of contents](#table-of-contents)
+  - [Preface](#preface)
+  - [Discord](#discord)
+  - [Language](#language)
+  - [Registration](#registration)
+  - [Check-in](#check-in)
+  - [Starting the tournament](#starting-the-tournament)
+  - [Getting into a game](#getting-into-a-game)
+  - [Sportsmanship and lag](#sportsmanship-and-lag)
+  - [Region-locked tournament](#region-locked-tournament)
+  - [Cash prizes](#cash-prizes)
+  - [Game-specific rules](#game-specific-rules)
+    - [Breakers Revenge](#breakers-revenge)
+    - [Fighting EX Layer: Another Dash](#fighting-ex-layer-another-dash)
+    - [ARMS](#arms)
+    - [Garou: Mark of the Wolves](#garou-mark-of-the-wolves)
+    - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
+    - [The King of Fighters XV](#the-king-of-fighters-xv)
+    - [Them's Fightin' Herds](#thems-fightin-herds)
+    - [Guilty Gear XX Accent Core +R](#guilty-gear-xx-accent-core-r)
+    - [Samurai Shodown (2019)](#samurai-shodown-2019)
+    - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
+  - [ADDENDUM:](#addendum)
+
 ## Preface
 
 WolfTV abides by a strict no-hate policy as well as the [Fighting Game Code of Conduct](https://fgcoc.com/). Please refer to the #rules channel in the [WolfTV Discord](https://discord.gg/xFejWpb) for more information.

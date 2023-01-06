@@ -182,7 +182,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 ## ADDENDUM
 
-- Players are advised to use an Ethernet cable to connect to their router. In case the device you're using does not have an Ethernet port (e.g. Nintendo Switch, Laptop, Smartphone...), here is our recommended USB to Ethernet adapter: [Click here (UK Link)](https://www.amazon.co.uk/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/)
+- Players are advised to use an Ethernet cable to connect to their router. In case the device you're using does not have an Ethernet port (e.g. Nintendo Switch, Laptop, Smartphone...), here is our recommended USB to Ethernet adapter: [United Kingdom](https://www.amazon.co.uk/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/), [France](https://www.amazon.fr/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/), [Netherlands](https://www.amazon.nl/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/), [Germany](https://www.amazon.de/UGREEN-Adaptateur-Ethernet-Supporte-Supérieur/dp/B00MYTSN18/)
 
 __**Please note that by default, players playing on Wi-Fi will be disqualified when involved in lag situations.**__
 

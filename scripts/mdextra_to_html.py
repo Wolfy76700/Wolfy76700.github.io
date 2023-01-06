@@ -1,8 +1,7 @@
-from markdown import Markdown
 from markdown import markdown as markdown_converter
 from markdown.extensions.toc import TocExtension
 
-html_filename = "../index.html"
+html_filename = "../rules.html"
 md_filename = "../rules.md"
 header_filename = "html_header.html"
 

@@ -19,16 +19,16 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
   - [Region-locked tournament](#region-locked-tournament)
   - [Cash prizes](#cash-prizes)
   - [Game-specific rules](#game-specific-rules)
+    - [ARMS](#arms)
     - [Breakers Revenge](#breakers-revenge)
     - [Fighting EX Layer: Another Dash](#fighting-ex-layer-another-dash)
-    - [ARMS](#arms)
     - [Garou: Mark of the Wolves](#garou-mark-of-the-wolves)
+    - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
+    - [Guilty Gear XX Accent Core +R](#guilty-gear-xx-accent-core-r)
     - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
     - [The King of Fighters XV](#the-king-of-fighters-xv)
-    - [Them's Fightin' Herds](#thems-fightin-herds)
-    - [Guilty Gear XX Accent Core +R](#guilty-gear-xx-accent-core-r)
     - [Samurai Shodown (2019)](#samurai-shodown-2019)
-    - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
+    - [Them's Fightin' Herds](#thems-fightin-herds)
   - [ADDENDUM:](#addendum)
 
 ## Preface
@@ -82,20 +82,6 @@ Players are required to have a Matcherino account in order to claim their cash p
 
 ## Game-specific rules
 
-### Breakers Revenge
-
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
-- All characters except Bai-Hu are allowed
-- You can switch characters if you lost the previous game, however the winner cannot switch characters
-
-### Fighting EX Layer: Another Dash
-
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
-- All characters are allowed
-- You can switch characters if you lost the previous game, however the winner cannot switch characters
-
 ### ARMS
 
 In this ruleset, the highest seeded player is referred to as Player 1 and his opponent as Player 2
@@ -118,8 +104,22 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
     10. Play the next game
     11. Repeat steps 6 to 8 until a winner is determined
 - **Stage selection:**
-    - __Starters:__ Sparring Ring, Buster Beach, DNA Lab, Temple Grounds, Mausoleum
-    - __Counterpicks:__ Via Dolce, Ninja College
+    - __Starters:__ [Sparring Ring](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/sparring.png), [Buster Beach](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/beach.png), [DNA Lab](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/dna.png), [Temple Grounds](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/temple.png), [Mausoleum](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/mausoleum.png)
+    - __Counterpicks:__ [Via Dolce](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/via.png), [Ninja College](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/college.png)
+
+### Breakers Revenge
+
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- All characters except Bai-Hu are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+
+### Fighting EX Layer: Another Dash
+
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
 
 ### Garou: Mark of the Wolves
 
@@ -127,6 +127,22 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+
+### Guilty Gear -STRIVE-
+
+- The tournament is played in a Best of 5 format
+- All characters are allowed. DLC characters are banned for 8 days (CET) after their release
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+- Please use one of the following stages in order to minimize slowdowns: Seventh Heaven District, Lars Canyon, Council of Three
+
+### Guilty Gear XX Accent Core +R
+
+- The tournament will be played on the main branch (Disable all betas before joining)
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- All characters are allowed
+- Gold/Shadow/EX Characters are banned
+- You can switch characters and assists if you lost the previous game, however the winner cannot switch characters
 
 ### JoJo's Bizarre Adventure: Heritage for the Future
 
@@ -149,22 +165,6 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - You can change the order of your characters at any point during the set
 
-### Them's Fightin' Herds
-
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
-- All characters are allowed. DLC characters are banned for 8 days (CET) after their release
-- You can switch characters if you lost the previous game, however the winner cannot switch characters
-
-### Guilty Gear XX Accent Core +R
-
-- The tournament will be played on the main branch (Disable all betas before joining)
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
-- All characters are allowed
-- Gold/Shadow/EX Characters are banned
-- You can switch characters and assists if you lost the previous game, however the winner cannot switch characters
-
 ### Samurai Shodown (2019)
 
 - The tournament is played in a Best of 3 format
@@ -173,12 +173,12 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - We recommend using the "Dojo" stage during online matches in order to minimize frame drops
 
-### Guilty Gear -STRIVE-
+### Them's Fightin' Herds
 
-- The tournament is played in a Best of 5 format
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
-- Please use one of the following stages in order to minimize slowdowns: Seventh Heaven District, Lars Canyon, Council of Three
 
 ## ADDENDUM:
 

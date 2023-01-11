@@ -30,6 +30,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Samurai Shodown (2019)](#samurai-shodown-2019)
     - [Them's Fightin' Herds](#thems-fightin-herds)
   - [Addendum](#addendum)
+  - [Changelog](#changelog)
 
 ## Preface
 
@@ -78,7 +79,7 @@ An event may reward good placing players with a cash prize in some instances. Sh
 - 2nd: 1/3 of the cash prize (~33 %)
 - 3rd: 1/6 of the cash prize (~17 %)
 
-Players are required to have a Matcherino account in order to claim their cash prize as well as filling a form proving that they have received their prize. **Failure to join the Matcherino 10 days after the event has ended will result in you no longer being eligible to get any prizes.** In which case the cash prize will be redistributed between all players who have enterd the Matcherino. Should all 3 winners of the prize pot not join the Matcherino, the pot will be redistributed either as part of the pot for a future event or as sponsorship money for partnered events.
+Some additional requirements may need to be met in order to claim their prize, such as having an account on a given website. **Failure to meet those requirements 10 days after the event has ended will result in you no longer being eligible to get any prizes.** In which case the cash prize will be redistributed between all players who met the requirements. Should all 3 winners of the prize pot not meet the requirements, the pot will be redistributed either as part of the pot for a future event or as sponsorship money for partnered events.
 
 ## Game-specific rules
 
@@ -191,3 +192,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 - DLC characters are banned for 8 days (CET) after their release
 
 - Player in the same online event are not allowed to share setups (A setup includes a screen, a console/PC, an input device and a copy of the game). If two players are found to be sharing a setup or elements of their setups after check-ins, leading to the tournament being slowed down, then both players will be disqualified
+
+## Changelog
+
+- 2023/01/11 - 09:00 UTC: Removed mentions of Matcherino

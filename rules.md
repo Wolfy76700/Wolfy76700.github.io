@@ -85,6 +85,8 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 ### ARMS
 
+*Associated Discord Role: ARMS*
+
 In this ruleset, the highest seeded player is referred to as Player 1 and his opponent as Player 2
 
 - The tournament is played in a Best of 3 format
@@ -110,12 +112,17 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 ### Breakers Revenge
 
+*Associated Discord Role (Breakers Collection): Breakers*  
+*Associated Discord Role (Fightcade): Fightcade*
+
 - The tournament is played in a Best of 3 format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters except Bai-Hu are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 
 ### Fighting EX Layer: Another Dash
+
+*Associated Discord Role: FEXLAnother*
 
 - The tournament is played in a Best of 3 format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
@@ -124,6 +131,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 ### Garou: Mark of the Wolves
 
+*Associated Discord Role: Fightcade*
+
 - The tournament is played in a Best of 3 format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters are allowed
@@ -131,12 +140,16 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 ### Guilty Gear -STRIVE-
 
+*Associated Discord Role: GuiltyStrive*
+
 - The tournament is played in a Best of 5 format
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - Please use one of the following stages in order to minimize slowdowns: Seventh Heaven District, Lars Canyon, Council of Three
 
 ### Guilty Gear XX Accent Core +R
+
+*Associated Discord Role: GuiltyPlusR (PC)*
 
 - The tournament will be played on the main branch (Disable all betas before joining)
 - The tournament is played in a Best of 3 format
@@ -146,6 +159,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - You can switch characters and assists if you lost the previous game, however the winner cannot switch characters
 
 ### JoJo's Bizarre Adventure: Heritage for the Future
+
+*Associated Discord Role: Fightcade*
 
 - The tournament is played in a Best of 3 format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
@@ -159,6 +174,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - No Debug Mode
 
 ### The King of Fighters XV
+
+*Associated Discord Role: KOFXV*
 
 - The tournament is played in a Best of 3 format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
@@ -175,6 +192,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - We recommend using the "Dojo" stage during online matches in order to minimize frame drops
 
 ### Them's Fightin' Herds
+
+*Associated Discord Role: ThemFightinHerds*
 
 - The tournament is played in a Best of 3 format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
@@ -195,4 +214,5 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/01/14 - 15:45 UTC: Added associated Discord roles
 - 2023/01/11 - 09:00 UTC: Removed mentions of Matcherino

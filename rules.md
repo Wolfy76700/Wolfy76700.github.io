@@ -28,6 +28,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
     - [The King of Fighters XV](#the-king-of-fighters-xv)
     - [Samurai Shodown (2019)](#samurai-shodown-2019)
+    - [Street Fighter Alpha 3](#street-fighter-alpha-3)
     - [Them's Fightin' Herds](#thems-fightin-herds)
   - [Addendum](#addendum)
   - [Changelog](#changelog)
@@ -191,6 +192,16 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - We recommend using the "Dojo" stage during online matches in order to minimize frame drops
 
+### Street Fighter Alpha 3
+
+*Associated Discord Role: Fightcade*
+
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- All characters are allowed
+- All ISM are allowed
+- You can switch characters and ISM if you lost the previous game, however the winner cannot switch characters or ISM
+
 ### Them's Fightin' Herds
 
 *Associated Discord Role: ThemFightinHerds*
@@ -214,5 +225,6 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/03/01 - 11:00 UTC: Added information about Street Fighter Alpha 3
 - 2023/01/14 - 15:45 UTC: Added associated Discord roles
 - 2023/01/11 - 09:00 UTC: Removed mentions of Matcherino

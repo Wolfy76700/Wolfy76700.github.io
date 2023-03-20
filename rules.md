@@ -17,6 +17,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
   - [Getting into a game](#getting-into-a-game)
   - [Sportsmanship and lag](#sportsmanship-and-lag)
   - [Region-locked tournament](#region-locked-tournament)
+    - [Region guide](#region-guide)
   - [Cash prizes](#cash-prizes)
   - [Game-specific rules](#game-specific-rules)
     - [ARMS](#arms)
@@ -72,6 +73,18 @@ Please note that by default, players playing on Wi-Fi will be disqualified when 
 
 ## Region-locked tournament
 Some tournaments may be locked to certain parts of the world. If so, please only register for tournaments specific to your region. **Entering an out-of-region tournament may result in you getting banned from both the event you registered for and a later, equivalent tournament catered towards your region**
+
+### Region guide
+
+- 🇮🇳 **Central Asia:** India, Russia-Center (Siberian, Ural), Pakistan
+- 🇯🇵 **East Asia:** Japan, China, Taiwan, Hong Kong, South Korea, Singapore, Russia-East (Far Eastern)
+- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Liechtenstein, Russia-West (Northwestern, Central, Southern, Volga)
+- 🇲🇦 **Maghreb:** Morocco, Tunisia, Algeria, Western Sahara, Canary Islands, Madere Islands, Lybia, Mauritania
+- 🇸🇦 **Middle East:** Saudi Arabia, Egypt, Bahrain, Qatar, United Arab Emirates, Yemen
+- 🇺🇸 **North America:** United States, Canada, Mexico, Greenland, Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Puerto Rico, Dominican Republic, Dominica, Guadeloupe, Martinique, Saint Barthélemy, Haiti, Jamaica, Trinidad and Tobago, British Virgin Island, Cayman Islands
+- 🇦🇺 **Oceania:** Australia, New Zealand, French Polynesia, New Caledonia, Indonesia, Fiji, Tonga, Wallis and Futuna, Tuvalu, Samoa, Papua New Guinea
+- 🇿🇦 **South Africa:** South Africa, Lesotho, Eswatini, Bostwana, Nambia, Madagascar, Réunion, Mayotte, Maurititus
+- 🇧🇷 **South America:** Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama, Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Paraguay, Peru, Suriname, Uruguay, Venezuela
 
 ## Cash prizes
 An event may reward good placing players with a cash prize in some instances. Should this happen, the total cash prize for the event will be communicated ahead of the tournament, and will be split between the Top 3 placements as follows:
@@ -225,6 +238,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/03/20 - 21:30 UTC: Added Region Guide
 - 2023/03/01 - 11:00 UTC: Added information about Street Fighter Alpha 3
 - 2023/01/14 - 15:45 UTC: Added associated Discord roles
 - 2023/01/11 - 09:00 UTC: Removed mentions of Matcherino

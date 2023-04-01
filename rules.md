@@ -27,9 +27,12 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
     - [Guilty Gear XX Accent Core +R](#guilty-gear-xx-accent-core-r)
     - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
+    - [Karnov's Revenge](#karnovs-revenge)
     - [The King of Fighters XV](#the-king-of-fighters-xv)
     - [Samurai Shodown (2019)](#samurai-shodown-2019)
     - [Street Fighter Alpha 3](#street-fighter-alpha-3)
+    - [Street Fighter III: Second Impact](#street-fighter-iii-second-impact)
+    - [Street Fighter III: Third Strike](#street-fighter-iii-third-strike)
     - [Them's Fightin' Herds](#thems-fightin-herds)
   - [Addendum](#addendum)
   - [Changelog](#changelog)
@@ -187,6 +190,15 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - Gray Fly Stage is soft banned - if both players agree to a reset, the reset will serve no penalty to either player. If one person doesn't want to reset, you may not reset. 
 - No Debug Mode
 
+### Karnov's Revenge
+
+*Associated Discord Role: Fightcade*
+
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+
 ### The King of Fighters XV
 
 *Associated Discord Role: KOFXV*
@@ -215,6 +227,24 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - All ISM are allowed
 - You can switch characters and ISM if you lost the previous game, however the winner cannot switch characters or ISM
 
+### Street Fighter III: Second Impact
+
+*Associated Discord Role: Fightcade*
+
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- All characters except Gill are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+
+### Street Fighter III: Third Strike
+
+*Associated Discord Role: Fightcade*
+
+- The tournament is played in a Best of 3 format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- All characters except Gill are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+
 ### Them's Fightin' Herds
 
 *Associated Discord Role: ThemFightinHerds*
@@ -238,6 +268,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/04/01 - 11:30 UTC: Added information about Karnov's Revenge, Street Fighter III: Second Impact and Street Fighter III: Third Strike
 - 2023/03/20 - 21:30 UTC: Added Region Guide
 - 2023/03/01 - 11:00 UTC: Added information about Street Fighter Alpha 3
 - 2023/01/14 - 15:45 UTC: Added associated Discord roles

@@ -83,7 +83,11 @@ Some tournaments may be locked to certain parts of the world. If so, please only
 
 - 🇮🇳 **Central Asia:** India, Russia-Center (Siberian, Ural), Pakistan
 - 🇯🇵 **East Asia:** Japan, China, Taiwan, Hong Kong, South Korea, Singapore, Russia-East (Far Eastern)
-- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Liechtenstein, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga)
+- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga)
+  - ***Western Europe:** United Kingdom, Ireland, France, Spain, Portugal, Italy, Belgium, Netherlands, Switzerland, Monaco, Andorra, Vatican City, Liechtenstein, San Marino, Malta, Luxembourg*
+  - ***Central Europe:** Germany, Poland, Czechia, Slovakia, Austria, Hungary, Slovenia*
+  - ***Northern Europe:** Norway, Sweden, Finland, Denmark, Estonia, Latvia, Lithuania, Russia-Kaliningrad*
+  - ***Southern Europe:** Croatia, Bosnia and Herzegovina, Serbia, Albania, Kosovo, North Macedonia, Montenegro, Romania, Bulgaria, Greece, Cyprus, Turkey*
 - 🇲🇦 **Maghreb:** Morocco, Tunisia, Algeria, Western Sahara, Canary Islands, Madere Islands, Lybia, Mauritania
 - 🇸🇦 **Middle East:** Saudi Arabia, Egypt, Bahrain, Qatar, United Arab Emirates, Yemen
 - 🇺🇸 **North America:** United States, Canada, Mexico, Greenland, Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Puerto Rico, Dominican Republic, Dominica, Guadeloupe, Martinique, Saint Barthélemy, Haiti, Jamaica, Trinidad and Tobago, British Virgin Island, Cayman Islands
@@ -270,6 +274,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/04/05 - 08:30 UTC: Updated region description and sub-regions for Europe
 - 2023/04/01 - 11:30 UTC: Added information about Karnov's Revenge, Street Fighter III: Second Impact and Street Fighter III: Third Strike
 - 2023/03/20 - 21:30 UTC: Added Region Guide
 - 2023/03/01 - 11:00 UTC: Added information about Street Fighter Alpha 3

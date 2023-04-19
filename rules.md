@@ -142,6 +142,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters except Bai-Hu are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+- *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ### Fighting EX Layer: Another Dash
 
@@ -160,6 +161,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+- Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ### Guilty Gear -STRIVE-
 
@@ -204,6 +206,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+- Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ### The King of Fighters XV
 
@@ -232,6 +235,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - All characters are allowed
 - All ISM are allowed
 - You can switch characters and ISM if you lost the previous game, however the winner cannot switch characters or ISM
+- Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ### Street Fighter III: Second Impact
 
@@ -241,6 +245,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters except Gill are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+- Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ### Street Fighter III: Third Strike
 
@@ -250,6 +255,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
 - All characters except Gill are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+- Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ### Them's Fightin' Herds
 
@@ -274,6 +280,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/04/19 - 08:10 UTC: Added no-spectate rule for Fightcade events
 - 2023/04/05 - 08:30 UTC: Updated region description and sub-regions for Europe
 - 2023/04/01 - 11:30 UTC: Added information about Karnov's Revenge, Street Fighter III: Second Impact and Street Fighter III: Third Strike
 - 2023/03/20 - 21:30 UTC: Added Region Guide

@@ -34,6 +34,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Street Fighter III: Second Impact](#street-fighter-iii-second-impact)
     - [Street Fighter III: Third Strike](#street-fighter-iii-third-strike)
     - [Them's Fightin' Herds](#thems-fightin-herds)
+    - [Vampire Savior](#vampire-savior)
   - [Addendum](#addendum)
   - [Changelog](#changelog)
 
@@ -112,8 +113,8 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 In this ruleset, the highest seeded player is referred to as Player 1 and his opponent as Player 2
 
-- The tournament is played in a Best of 3 format
-- Winners Finals, Losers Semis, Losers Finals and Grand Finals are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- Winners Finals, Losers Semis, Losers Finals and Grand Finals are played in a **First to 3** format
 - All characters, ARMS and ARM loadouts are allowed
 - You may switch your ARM loadouts between games
 - **Gentlemen's Clause:** A game can be played on any stage in the game if the players agree to it
@@ -138,8 +139,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 *Associated Discord Role (Breakers Collection): Breakers*  
 *Associated Discord Role (Fightcade): Fightcade*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters except Bai-Hu are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
@@ -148,8 +149,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: FEXLAnother*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 
@@ -157,8 +158,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: Fightcade*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
@@ -167,7 +168,7 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: GuiltyStrive*
 
-- The tournament is played in a Best of 5 format
+- The tournament is played in a **First to 3** format
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - Please use one of the following stages in order to minimize slowdowns: Seventh Heaven District, Lars Canyon, Council of Three
@@ -177,8 +178,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 *Associated Discord Role: GuiltyPlusR (PC)*
 
 - The tournament will be played on the main branch (Disable all betas before joining)
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - Gold/Shadow/EX Characters are banned
 - You can switch characters and assists if you lost the previous game, however the winner cannot switch characters
@@ -187,8 +188,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: Fightcade*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters except Pet Shop are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - Loops are limited to 3 repetitions.
@@ -202,8 +203,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: Fightcade*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
@@ -212,16 +213,16 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: KOFXV*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - You can change the order of your characters at any point during the set
 
 ### Samurai Shodown (2019)
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - We recommend using the "Dojo" stage during online matches in order to minimize frame drops
@@ -230,8 +231,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: Fightcade*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - All ISM are allowed
 - You can switch characters and ISM if you lost the previous game, however the winner cannot switch characters or ISM
@@ -241,8 +242,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: Fightcade*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters except Gill are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
@@ -251,8 +252,8 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: Fightcade*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters except Gill are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
@@ -261,10 +262,20 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 *Associated Discord Role: ThemFightinHerds*
 
-- The tournament is played in a Best of 3 format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a Best of 5 format
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+
+### Vampire Savior
+
+*Associated Discord Role: Fightcade*
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+- Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ## Addendum
 
@@ -280,6 +291,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/05/29 - 13:15 UTC: Added Vampire Savior, adjusted terminology
 - 2023/04/19 - 08:10 UTC: Added no-spectate rule for Fightcade events
 - 2023/04/05 - 08:30 UTC: Updated region description and sub-regions for Europe
 - 2023/04/01 - 11:30 UTC: Added information about Karnov's Revenge, Street Fighter III: Second Impact and Street Fighter III: Third Strike

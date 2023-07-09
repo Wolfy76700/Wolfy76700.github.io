@@ -2,7 +2,7 @@
 
 # The Wolf Warrior General Ruleset
 
-__**Welcome to he Wolf Warrior!**__
+__**Welcome to The Wolf Warrior!**__
 So, you want to take part in The Wolf Warrior and wonder how it works. Well, here are all the info you need regarding registration, check-in and matches!
 
 ***

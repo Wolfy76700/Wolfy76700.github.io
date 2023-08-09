@@ -43,7 +43,7 @@ Registration deadlines may differ from event to event.
 
 Participants under the age of 18 must submit a consent letter from their parent or legal guardian to the TOs (@The TO Pack in the Discord) and cannot take part in tournaments for games rated PEGI 18. Children under 12 are not allowed to take part in tournaments where cash prizes are involved.
 
-An active subscription to the game platform's online service (e.g. PlayStation Plus, Nintendo Switch Online, Xbox Live Gold) may be required to take part in a given tournament.
+An active subscription to the game platform's online service (e.g. PlayStation Plus, Xbox Game Pass Core, Xbox Game Pass Ultimate) may be required to take part in a given tournament.
 
 ## Check-in
 You will be required to check-in before the event starts. The check-in period begins 30 minutes before the event starts and ends on the planned start time and will be done through the specific event page (The one where you registered) **No admin-side check-in will be done before, during or after the check-in period** outside of very specific cases, so don't forget to check-in!
@@ -107,4 +107,5 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
 
 ## Changelog
 
+- 2023/08/09 - 14:00 UTC: Updated Xbox terminology to reflect changes to Xbox Live Gold and Xbox Game Pass
 - 2023/07/09 - 11:19 UTC: First version

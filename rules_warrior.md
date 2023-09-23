@@ -87,7 +87,8 @@ Some additional requirements may need to be met in order to claim their prize, s
 ### Street Fighter 6
 
 - The tournament is played in a **First to 2** format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- **Top 6** is played in a **First to 3** format
+  - Top 6 includes Winners Semis, Winners Finals, Losers Quarters, Losers Semis, Losers Finals and Grand Finals
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
 - All platforns are allowed
@@ -107,5 +108,6 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
 
 ## Changelog
 
+- 2023/08/23 - 10:20 UTC: Extended FT3 phase to Top 6
 - 2023/08/09 - 14:00 UTC: Updated Xbox terminology to reflect changes to Xbox Live Gold and Xbox Game Pass
 - 2023/07/09 - 11:19 UTC: First version

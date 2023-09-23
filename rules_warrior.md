@@ -88,7 +88,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 - The tournament is played in a **First to 2** format
 - **Top 6** is played in a **First to 3** format
-  - Top 6 includes Winners Semis, Winners Finals, Losers Quarters, Losers Semis, Losers Finals and Grand Finals
+    - Top 6 includes Winners Semis, Winners Finals, Losers Quarters, Losers Semis, Losers Finals and Grand Finals
 - All characters are allowed. DLC characters are banned for 8 days (CET) after their release
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
 - All platforns are allowed

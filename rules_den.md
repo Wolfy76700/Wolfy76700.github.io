@@ -92,7 +92,7 @@ Some tournaments may be locked to certain parts of the world. If so, please only
   - ***Northern Europe:** Norway, Sweden, Finland, Denmark, Estonia, Latvia, Lithuania, Russia-Kaliningrad*
   - ***Southern Europe:** Croatia, Bosnia and Herzegovina, Serbia, Albania, Kosovo, North Macedonia, Montenegro, Romania, Bulgaria, Greece, Cyprus, Turkey*
 - 🇲🇦 **Maghreb:** Morocco, Tunisia, Algeria, Western Sahara, Canary Islands, Madere Islands, Lybia, Mauritania
-- 🇸🇦 **Middle East:** Saudi Arabia, Egypt, Bahrain, Qatar, United Arab Emirates, Yemen
+- 🇸🇦 **Middle East:** Saudi Arabia, Egypt, Bahrain, Qatar, United Arab Emirates, Yemen, Turkey, Lebannon, Israel, Palestine
 - 🇺🇸 **North America:** United States, Canada, Mexico, Greenland, Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Puerto Rico, Dominican Republic, Dominica, Guadeloupe, Martinique, Saint Barthélemy, Haiti, Jamaica, Trinidad and Tobago, British Virgin Island, Cayman Islands
 - 🇦🇺 **Oceania:** Australia, New Zealand, French Polynesia, New Caledonia, Indonesia, Fiji, Tonga, Wallis and Futuna, Tuvalu, Samoa, Papua New Guinea
 - 🇿🇦 **South Africa:** South Africa, Lesotho, Eswatini, Bostwana, Nambia, Madagascar, Réunion, Mayotte, Maurititus
@@ -265,6 +265,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/10/09 - 22:00 UTC: Added more countries to Middle East region
 - 2023/08/09 - 14:00 UTC: Updated Xbox terminology to reflect changes to Xbox Live Gold and Xbox Game Pass
 - 2023/07/09 - 11:11 UTC: Removed mention of game Discord roles, moved page to ./rules_den.html
 - 2023/05/29 - 13:15 UTC: Added Vampire Savior, adjusted terminology

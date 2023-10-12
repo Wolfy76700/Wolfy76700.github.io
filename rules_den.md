@@ -31,12 +31,14 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
     - [Karnov's Revenge](#karnovs-revenge)
     - [The King of Fighters XV](#the-king-of-fighters-xv)
+    - [Real Bout Fatal Fury 2: The Newcomers](#real-bout-fatal-fury-2-the-newcomers)
     - [Samurai Shodown (2019)](#samurai-shodown-2019)
     - [Street Fighter Alpha 3](#street-fighter-alpha-3)
     - [Street Fighter III: Second Impact](#street-fighter-iii-second-impact)
     - [Street Fighter III: Third Strike](#street-fighter-iii-third-strike)
     - [Them's Fightin' Herds](#thems-fightin-herds)
     - [Vampire Savior](#vampire-savior)
+    - [Windjammers 2](#windjammers-2)
   - [Addendum](#addendum)
   - [Changelog](#changelog)
 
@@ -87,10 +89,10 @@ Some tournaments may be locked to certain parts of the world. If so, please only
 - 🇮🇳 **Central Asia:** India, Russia-Center (Siberian, Ural), Pakistan
 - 🇯🇵 **East Asia:** Japan, China, Taiwan, Hong Kong, South Korea, Singapore, Russia-East (Far Eastern)
 - 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga)
-  - ***Western Europe:** United Kingdom, Ireland, France, Spain, Portugal, Italy, Belgium, Netherlands, Switzerland, Monaco, Andorra, Vatican City, Liechtenstein, San Marino, Malta, Luxembourg*
-  - ***Central Europe:** Germany, Poland, Czechia, Slovakia, Austria, Hungary, Slovenia*
-  - ***Northern Europe:** Norway, Sweden, Finland, Denmark, Estonia, Latvia, Lithuania, Russia-Kaliningrad*
-  - ***Southern Europe:** Croatia, Bosnia and Herzegovina, Serbia, Albania, Kosovo, North Macedonia, Montenegro, Romania, Bulgaria, Greece, Cyprus, Turkey*
+    - ***Western Europe:** United Kingdom, Ireland, France, Spain, Portugal, Italy, Belgium, Netherlands, Switzerland, Monaco, Andorra, Vatican City, Liechtenstein, San Marino, Malta, Luxembourg*
+    - ***Central Europe:** Germany, Poland, Czechia, Slovakia, Austria, Hungary, Slovenia*
+    - ***Northern Europe:** Norway, Sweden, Finland, Denmark, Estonia, Latvia, Lithuania, Russia-Kaliningrad*
+    - ***Southern Europe:** Croatia, Bosnia and Herzegovina, Serbia, Albania, Kosovo, North Macedonia, Montenegro, Romania, Bulgaria, Greece, Cyprus, Turkey*
 - 🇲🇦 **Maghreb:** Morocco, Tunisia, Algeria, Western Sahara, Canary Islands, Madere Islands, Lybia, Mauritania
 - 🇸🇦 **Middle East:** Saudi Arabia, Egypt, Bahrain, Qatar, United Arab Emirates, Yemen, Turkey, Lebannon, Israel, Palestine
 - 🇺🇸 **North America:** United States, Canada, Mexico, Greenland, Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Puerto Rico, Dominican Republic, Dominica, Guadeloupe, Martinique, Saint Barthélemy, Haiti, Jamaica, Trinidad and Tobago, British Virgin Island, Cayman Islands
@@ -203,6 +205,14 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - You can change the order of your characters at any point during the set
 
+### Real Bout Fatal Fury 2: The Newcomers
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+- *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+
 ### Samurai Shodown (2019)
 
 - The tournament is played in a **First to 2** format
@@ -246,10 +256,18 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 ### Vampire Savior
 
 - The tournament is played in a **First to 2** format
-- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- **Top 6** is played in a **First to 3** format
+    - Top 6 includes Winners Semis, Winners Finals, Losers Quarters, Losers Semis, Losers Finals and Grand Finals
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+- 
+### Windjammers 2
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
 
 ## Addendum
 
@@ -257,7 +275,17 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 
 __**Please note that by default, players playing on Wi-Fi will be disqualified when involved in lag situations.**__
 
-- All input devices are allowed as long as they are equipped with an SOCD cleaning method
+- All input devices are allowed as long as they follow the following specifications:
+    - Each button or input must only be mapped once on the device
+    - Macro and turbo inputs are banned
+        - A macro input is defined as a single button mapped to pressing multiple button inputs, either simultaneously on in a sequence
+            - Macros allowed on the software side by the game are excluded from this rule
+            - Macros mapped whithin the emulator software are included in this rule
+        - A turbo input is defined as a single button being switched periodically between a pressed and unpressed state from holding said button
+    - The device is equipped with an SOCD cleaning method for D-Pad inputs. The SOCD cleaning must occur as follows, unless specified otherwise in the game’s ruleset:
+        - Left + Right = Neutral (4+6 = 5)
+        - Up + Down = Neutral (2+8 = 5) OR Up + Down = Up (2+8 = 8)
+    - Analog to Digital conversions are allowed for both the Left Stick and Right Stick inputs. Exact specifications may vary on a per game basis.
 
 - DLC characters are banned for 8 days (CET) after their release
 
@@ -265,6 +293,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/10/12 - 08:39 UTC: Added additional rulings on input devices, added rulesets for Real Bout Fatal Fury 2 and Windjammers 2, extended FT3 period for Vampire Savior to Top 6
 - 2023/10/09 - 22:00 UTC: Added more countries to Middle East region
 - 2023/08/09 - 14:00 UTC: Updated Xbox terminology to reflect changes to Xbox Live Gold and Xbox Game Pass
 - 2023/07/09 - 11:11 UTC: Removed mention of game Discord roles, moved page to ./rules_den.html

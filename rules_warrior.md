@@ -100,7 +100,17 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 __**Please note that players playing on Wi-Fi will be disqualified.**__
 
-- All input devices are allowed as long as they are equipped with an SOCD cleaning method
+- All input devices are allowed as long as they follow the following specifications:
+    - Each button or input must only be mapped once on the device
+    - Macro and turbo inputs are banned
+        - A macro input is defined as a single button mapped to pressing multiple button inputs, either simultaneously on in a sequence
+            - Macros allowed on the software side by the game are excluded from this rule
+            - Macros mapped whithin the emulator software are included in this rule
+        - A turbo input is defined as a single button being switched periodically between a pressed and unpressed state from holding said button
+    - The device is equipped with an SOCD cleaning method for D-Pad inputs. The SOCD cleaning must occur as follows, unless specified otherwise in the game’s ruleset:
+        - Left + Right = Neutral (4+6 = 5)
+        - Up + Down = Neutral (2+8 = 5)
+    - Analog to Digital conversions are allowed for both the Left Stick and Right Stick inputs. Exact specifications may vary on a per game basis.
 
 - DLC characters are banned for 8 days (CET) after their release
 
@@ -108,6 +118,7 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
 
 ## Changelog
 
+- 2023/10/12 - 08:39 UTC: Added additional rulings on input devices
 - 2023/08/23 - 10:20 UTC: Extended FT3 phase to Top 6
 - 2023/08/09 - 14:00 UTC: Updated Xbox terminology to reflect changes to Xbox Live Gold and Xbox Game Pass
 - 2023/07/09 - 11:19 UTC: First version

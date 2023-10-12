@@ -89,7 +89,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - The tournament is played in a **First to 2** format
 - **Top 6** is played in a **First to 3** format
     - Top 6 includes Winners Semis, Winners Finals, Losers Quarters, Losers Semis, Losers Finals and Grand Finals
-- All characters are allowed. DLC characters are banned for 8 days (CET) after their release
+- All characters are allowed
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
 - All platforns are allowed
 - You can switch characters and control mode if you lost the previous game, however the winner cannot switch characters
@@ -112,12 +112,14 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
         - Up + Down = Neutral (2+8 = 5)
     - Analog to Digital conversions are allowed for both the Left Stick and Right Stick inputs. Exact specifications may vary on a per game basis.
 
-- DLC characters are banned for 8 days (CET) after their release
-
 - Player in the same online event are not allowed to share setups (A setup includes a screen, a console/PC, an input device and a copy of the game). If two players are found to be sharing a setup or elements of their setups after check-ins, leading to the tournament being slowed down, then both players will be disqualified
+
+- Using software hacks to tamper with the game’s programming or your inputs will result in a permanent ban from all future WolfTV events. Examples include (but are not limited to) using hacks to automatically react to drive Impact or instantly block overheads in Street Fighter 6, or using hacks to play as NPC bosses in KOFXV (e.g. Re Verse, Otoma=Raga, Rugal-Boss, Goenitz-Boss)
+    - Cosmetic mods are allowed as long as they don’t interfere with the gameplay or the game’s online connectivity. Examples include (but are not limited to) most palette swap mods in Fightcade, the English voice mod in DNF Duel or most Potato mods
 
 ## Changelog
 
+- 2023/10/12 - 16:38 UTC: Removed DLC clause, added paragraph on software hacks
 - 2023/10/12 - 08:39 UTC: Added additional rulings on input devices
 - 2023/08/23 - 10:20 UTC: Extended FT3 phase to Top 6
 - 2023/08/09 - 14:00 UTC: Updated Xbox terminology to reflect changes to Xbox Live Gold and Xbox Game Pass

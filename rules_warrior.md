@@ -70,7 +70,7 @@ The Wolf Warrior events are currently region-locked to Europe and Maghreb. **Ent
 
 ### Region guide
 
-- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga)
+- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga), Israel, Palestine
 - 🇲🇦 **Maghreb:** Morocco, Tunisia, Algeria, Western Sahara, Canary Islands, Madere Islands, Lybia, Mauritania
 
 ## Cash prizes
@@ -119,6 +119,7 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
 
 ## Changelog
 
+- 2023/10/17 - 08:40 UTC: Moved Israel and Pakistan to Europe region
 - 2023/10/12 - 16:38 UTC: Removed DLC clause, added paragraph on software hacks
 - 2023/10/12 - 08:39 UTC: Added additional rulings on input devices
 - 2023/08/23 - 10:20 UTC: Extended FT3 phase to Top 6

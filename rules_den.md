@@ -88,13 +88,13 @@ Some tournaments may be locked to certain parts of the world. If so, please only
 
 - 🇮🇳 **Central Asia:** India, Russia-Center (Siberian, Ural), Pakistan
 - 🇯🇵 **East Asia:** Japan, China, Taiwan, Hong Kong, South Korea, Singapore, Russia-East (Far Eastern)
-- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga)
+- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga), Israel, Palestine
     - ***Western Europe:** United Kingdom, Ireland, France, Spain, Portugal, Italy, Belgium, Netherlands, Switzerland, Monaco, Andorra, Vatican City, Liechtenstein, San Marino, Malta, Luxembourg*
     - ***Central Europe:** Germany, Poland, Czechia, Slovakia, Austria, Hungary, Slovenia*
     - ***Northern Europe:** Norway, Sweden, Finland, Denmark, Estonia, Latvia, Lithuania, Russia-Kaliningrad*
-    - ***Southern Europe:** Croatia, Bosnia and Herzegovina, Serbia, Albania, Kosovo, North Macedonia, Montenegro, Romania, Bulgaria, Greece, Cyprus, Turkey*
+    - ***Southern Europe:** Croatia, Bosnia and Herzegovina, Serbia, Albania, Kosovo, North Macedonia, Montenegro, Romania, Bulgaria, Greece, Cyprus, Turkey, Israel, Palestine*
 - 🇲🇦 **Maghreb:** Morocco, Tunisia, Algeria, Western Sahara, Canary Islands, Madere Islands, Lybia, Mauritania
-- 🇸🇦 **Middle East:** Saudi Arabia, Egypt, Bahrain, Qatar, United Arab Emirates, Yemen, Turkey, Lebannon, Israel, Palestine
+- 🇸🇦 **Middle East:** Saudi Arabia, Egypt, Bahrain, Qatar, United Arab Emirates, Yemen, Turkey, Lebannon
 - 🇺🇸 **North America:** United States, Canada, Mexico, Greenland, Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Puerto Rico, Dominican Republic, Dominica, Guadeloupe, Martinique, Saint Barthélemy, Haiti, Jamaica, Trinidad and Tobago, British Virgin Island, Cayman Islands
 - 🇦🇺 **Oceania:** Australia, New Zealand, French Polynesia, New Caledonia, Indonesia, Fiji, Tonga, Wallis and Futuna, Tuvalu, Samoa, Papua New Guinea
 - 🇿🇦 **South Africa:** South Africa, Lesotho, Eswatini, Bostwana, Nambia, Madagascar, Réunion, Mayotte, Maurititus
@@ -294,6 +294,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/10/17 - 08:40 UTC: Moved Israel and Pakistan to Europe region
 - 2023/10/12 - 16:38 UTC: Removed DLC clause, added paragraph on software hacks
 - 2023/10/12 - 08:39 UTC: Added additional rulings on input devices, added rulesets for Real Bout Fatal Fury 2 and Windjammers 2, extended FT3 period for Vampire Savior to Top 6
 - 2023/10/09 - 22:00 UTC: Added more countries to Middle East region

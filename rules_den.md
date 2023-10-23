@@ -111,9 +111,9 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 ## Game-specific rules
 
-### ARMS
+- In all of the following rulesets, the highest seeded player is referred to as Player 1 and his opponent as Player 2 by default. The players may however agree to switch sides. If the players disagree to switching sides, they may ask a TO to [flip a coin](https://justflipacoin.com/) to decide who is Player 1 and who is Player 2.
 
-In this ruleset, the highest seeded player is referred to as Player 1 and his opponent as Player 2
+### ARMS
 
 - The tournament is played in a **First to 2** format
 - Winners Finals, Losers Semis, Losers Finals and Grand Finals are played in a **First to 3** format
@@ -268,6 +268,21 @@ In this ruleset, the highest seeded player is referred to as Player 1 and his op
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+- **Gentlemen's Clause:** A game can be played on any stage in the game if the players agree to it
+- **Set Procedure:**
+    1. Players select their characters
+    2. The first stage is picked at random
+        - Player 1 is advised to press the "Random" button 3 times to confirm the pick
+        - If the final pick lands on a banned stage, Player 1 should press Random until a legal stage is picked
+    3. Game 1 is played
+    4. The winner of the previous game bans one stage from the full stage list
+    5. The loser of the previous game picks the next game stage among the remaining stages
+    6. The winner announces any character switch
+    7.  The loser announces any character switch
+    8.  Play the next game
+    9.  Repeat steps 6 to 8 until a winner is determined
+- **Stage selection:**
+    - __Starters:__ [Beach](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/beach.png), [Clay](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/clay.png), [Lawn](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/lawn.png), [Arena](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/arena.png), [Tiled](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/tiled.png), [Rooftop](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/roof.png), [Ring](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/ring.png), [Junkyard](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/junk.png), [Stadium](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/stadium.png)
 
 ## Addendum
 
@@ -294,7 +309,8 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
-- 2023/10/17 - 08:40 UTC: Moved Israel and Pakistan to Europe region
+- 2023/10/23 - 19:50 UTC: Added stage ruleset for Windjammers 2, clarified Player 1/Player 2 side pick
+- 2023/10/17 - 08:40 UTC: Moved Israel and Palestine to Europe region
 - 2023/10/12 - 16:38 UTC: Removed DLC clause, added paragraph on software hacks
 - 2023/10/12 - 08:39 UTC: Added additional rulings on input devices, added rulesets for Real Bout Fatal Fury 2 and Windjammers 2, extended FT3 period for Vampire Savior to Top 6
 - 2023/10/09 - 22:00 UTC: Added more countries to Middle East region

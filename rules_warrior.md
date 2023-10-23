@@ -84,6 +84,8 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 ## Game-specific rules
 
+- In all of the following rulesets, the highest seeded player is referred to as Player 1 and his opponent as Player 2 by default. The players may however agree to switch sides. If the players disagree to switching sides, they may ask a TO to [flip a coin](https://justflipacoin.com/) to decide who is Player 1 and who is Player 2.
+
 ### Street Fighter 6
 
 - The tournament is played in a **First to 2** format
@@ -119,7 +121,8 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
 
 ## Changelog
 
-- 2023/10/17 - 08:40 UTC: Moved Israel and Pakistan to Europe region
+- 2023/10/23 - 19:50 UTC: Clarified Player 1/Player 2 side pick
+- 2023/10/17 - 08:40 UTC: Moved Israel and Palestine to Europe region
 - 2023/10/12 - 16:38 UTC: Removed DLC clause, added paragraph on software hacks
 - 2023/10/12 - 08:39 UTC: Added additional rulings on input devices
 - 2023/08/23 - 10:20 UTC: Extended FT3 phase to Top 6

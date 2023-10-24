@@ -22,7 +22,6 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Region guide](#region-guide)
   - [Cash prizes](#cash-prizes)
   - [Game-specific rules](#game-specific-rules)
-    - [ARMS](#arms)
     - [Breakers Revenge](#breakers-revenge)
     - [Fighting EX Layer: Another Dash](#fighting-ex-layer-another-dash)
     - [Garou: Mark of the Wolves](#garou-mark-of-the-wolves)
@@ -112,29 +111,6 @@ Some additional requirements may need to be met in order to claim their prize, s
 ## Game-specific rules
 
 - In all of the following rulesets, the highest seeded player is referred to as Player 1 and his opponent as Player 2 by default. The players may however agree to switch sides. If the players disagree to switching sides, they may ask a TO to [flip a coin](https://justflipacoin.com/) to decide who is Player 1 and who is Player 2.
-
-### ARMS
-
-- The tournament is played in a **First to 2** format
-- Winners Finals, Losers Semis, Losers Finals and Grand Finals are played in a **First to 3** format
-- All characters, ARMS and ARM loadouts are allowed
-- You may switch your ARM loadouts between games
-- **Gentlemen's Clause:** A game can be played on any stage in the game if the players agree to it
-- **Set Procedure:**
-    1. Players select their characters
-    2. Player 1 bans one starter stage
-    3. Player 2 bans two starter stages
-    4. Player 1 picks the first game stage among the two remaining starter stages
-    5. Game 1 is played
-    6. The winner of the previous game bans two stages from the full stage list
-    7. The loser of the previous game picks the next game stage among the remaining stages
-    8. The winner announces any character switch
-    9. The loser announces any character switch
-    10. Play the next game
-    11. Repeat steps 6 to 8 until a winner is determined
-- **Stage selection:**
-    - __Starters:__ [Sparring Ring](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/sparring.png), [Buster Beach](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/beach.png), [DNA Lab](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/dna.png), [Temple Grounds](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/temple.png), [Mausoleum](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/mausoleum.png)
-    - __Counterpicks:__ [Via Dolce](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/via.png), [Ninja College](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/arms/stage_icon/college.png)
 
 ### Breakers Revenge
 
@@ -309,6 +285,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/10/24 - 17:20 UTC: Removed ruleset for some games
 - 2023/10/23 - 19:50 UTC: Added stage ruleset for Windjammers 2, clarified Player 1/Player 2 side pick
 - 2023/10/17 - 08:40 UTC: Moved Israel and Palestine to Europe region
 - 2023/10/12 - 16:38 UTC: Removed DLC clause, added paragraph on software hacks

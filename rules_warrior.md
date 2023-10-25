@@ -95,6 +95,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
 - All platforns are allowed
 - You can switch characters and control mode if you lost the previous game, however the winner cannot switch characters
+- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
 
 ## Addendum
 
@@ -121,6 +122,7 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
 
 ## Changelog
 
+- 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs
 - 2023/10/23 - 19:50 UTC: Clarified Player 1/Player 2 side pick
 - 2023/10/17 - 08:40 UTC: Moved Israel and Palestine to Europe region
 - 2023/10/12 - 16:38 UTC: Removed DLC clause, added paragraph on software hacks

@@ -164,6 +164,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - Gray Fly Stage is soft banned - if both players agree to a reset, the reset will serve no penalty to either player. If one person doesn't want to reset, you may not reset. 
 - No Debug Mode
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
 
 ### Karnov's Revenge
 
@@ -205,6 +206,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - All ISM are allowed
 - You can switch characters and ISM if you lost the previous game, however the winner cannot switch characters or ISM
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
 
 ### Street Fighter III: Second Impact
 
@@ -213,6 +215,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - All characters except Gill are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
 
 ### Street Fighter III: Third Strike
 
@@ -221,6 +224,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - All characters except Gill are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
 
 ### Them's Fightin' Herds
 
@@ -285,6 +289,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs
 - 2023/10/24 - 17:20 UTC: Removed ruleset for some games
 - 2023/10/23 - 19:50 UTC: Added stage ruleset for Windjammers 2, clarified Player 1/Player 2 side pick
 - 2023/10/17 - 08:40 UTC: Moved Israel and Palestine to Europe region

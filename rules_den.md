@@ -247,7 +247,6 @@ Some additional requirements may need to be met in order to claim their prize, s
 - The tournament is played in a **First to 2** format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
-- You can switch characters if you lost the previous game, however the winner cannot switch characters
 - **Gentlemen's Clause:** A game can be played on any stage in the game if the players agree to it
 - **Set Procedure:**
     1. Players select their characters
@@ -289,7 +288,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
-- 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs
+- 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs, fixed Windjammers 2 ruleset
 - 2023/10/24 - 17:20 UTC: Removed ruleset for some games
 - 2023/10/23 - 19:50 UTC: Added stage ruleset for Windjammers 2, clarified Player 1/Player 2 side pick
 - 2023/10/17 - 08:40 UTC: Moved Israel and Palestine to Europe region

@@ -73,6 +73,8 @@ In order to communicate with your opponent, you can use any of the numbered aren
 
 Sometimes, tournament admins may decide a match should be streamed live. In this case, players involved in the match will be informed at the same time the tournament round gets called out, and communication will happen using the #stream-arena channel. Please note **the #stream-arena channel cannot be used for non-streamed matches**.
 
+**If you do not show up to your match in the 10 minutes after it was marked as both playable and available, you will be DQed.** If you are playing in another online bracket at the same time, please warn The TO Pack before the tournament starts and eventually indicate in your Discord nickname that you are plaing in said other bracket.
+
 ## Sportsmanship and lag
 We want to remind everyone to keep civil in the discussions and follow some basic principles of sportsmanship. In case of disagreement, please warn a mod or tournament admin, we will then take appropriate action depending on the situation.
 
@@ -288,6 +290,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/10/31 - 10:15 UTC: Added ruling on no-shows during matches
 - 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs, fixed Windjammers 2 ruleset
 - 2023/10/24 - 17:20 UTC: Removed ruleset for some games
 - 2023/10/23 - 19:50 UTC: Added stage ruleset for Windjammers 2, clarified Player 1/Player 2 side pick

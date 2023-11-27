@@ -27,6 +27,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Garou: Mark of the Wolves](#garou-mark-of-the-wolves)
     - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
     - [Guilty Gear XX Accent Core +R](#guilty-gear-xx-accent-core-r)
+    - [Idol Showdown](#idol-showdown)
     - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
     - [Karnov's Revenge](#karnovs-revenge)
     - [The King of Fighters XV](#the-king-of-fighters-xv)
@@ -152,6 +153,18 @@ Some additional requirements may need to be met in order to claim their prize, s
 - All characters are allowed
 - Gold/Shadow/EX Characters are banned
 - You can switch characters and assists if you lost the previous game, however the winner cannot switch characters
+
+### Idol Showdown
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+- **Regarding Stream matches:**
+  - Stream matches will be viewed thanks to VDO Ninja.
+  - One of the two players will have to join the VDO Ninja room in order to stream their match. Please make sure to use the "Screenshare" option and select the game window in order to avoid doxxing yourself on stream
+  - Make sure to leave the VDO Ninja room once your match is over
+  - Game sound will be off during the stream
 
 ### JoJo's Bizarre Adventure: Heritage for the Future
 
@@ -290,6 +303,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2023/11/27 - 16:10 UTC: Added rules for Idol Showdown
 - 2023/10/31 - 10:15 UTC: Added ruling on no-shows during matches
 - 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs, fixed Windjammers 2 ruleset
 - 2023/10/24 - 17:20 UTC: Removed ruleset for some games

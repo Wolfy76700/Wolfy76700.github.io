@@ -1,4 +1,5 @@
-*For the ruleset for Battle for the Den, click [here](https://wolfy76700.github.io/rules_den.html)*
+- *For the ruleset for Battle for the Den, click [here](https://wolfy76700.github.io/rules_den.html)*  
+- *For the ruleset for From Pack to Pack, click [here](https://wolfy76700.github.io/rules_pack.html)*
 
 # The Wolf Warrior General Ruleset
 
@@ -97,7 +98,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
 - All platforns are allowed
 - You can switch characters and control mode if you lost the previous game, however the winner cannot switch characters
-- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
+- WolfTV and the Wolf Warrior series are not affiliated with or sponsored by Capcom
 
 ## Addendum
 
@@ -117,13 +118,14 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
         - Up + Down = Neutral (2+8 = 5)
     - Analog to Digital conversions are allowed for both the Left Stick and Right Stick inputs. Exact specifications may vary on a per game basis.
 
-- Player in the same online event are not allowed to share setups (A setup includes a screen, a console/PC, an input device and a copy of the game). If two players are found to be sharing a setup or elements of their setups after check-ins, leading to the tournament being slowed down, then both players will be disqualified
+- Players in the same online event are not allowed to share setups (A setup includes a screen, a console/PC, an input device and a copy of the game). If two players are found to be sharing a setup or elements of their setups after check-ins, leading to the tournament being slowed down, then both players will be disqualified
 
-- Using software hacks to tamper with the game’s programming or your inputs will result in a permanent ban from all future WolfTV events. Examples include (but are not limited to) using hacks to automatically react to drive Impact or instantly block overheads in Street Fighter 6, or using hacks to play as NPC bosses in KOFXV (e.g. Re Verse, Otoma=Raga, Rugal-Boss, Goenitz-Boss)
+- Using software hacks to tamper with the game’s programming or your inputs will result in a permanent ban from all future WolfTV events. Examples include (but are not limited to) using hacks to automatically react to Drive Impact or instantly block overheads in Street Fighter 6, or using hacks to play as NPC bosses in KOFXV (e.g. Re Verse, Otoma=Raga, Rugal-Boss, Goenitz-Boss)
     - Cosmetic mods are allowed as long as they don’t interfere with the gameplay or the game’s online connectivity. Examples include (but are not limited to) most palette swap mods in Fightcade, the English voice mod in DNF Duel or most Potato mods
 
 ## Changelog
 
+- 2023/11/28 - 18:40 UTC: Fixed typos
 - 2023/10/31 - 10:15 UTC: Added ruling on no-shows during matches
 - 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs
 - 2023/10/23 - 19:50 UTC: Clarified Player 1/Player 2 side pick

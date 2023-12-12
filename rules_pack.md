@@ -122,6 +122,7 @@ Some additional requirements may need to be met in order to claim their prize, s
     - The match ends when all of the players in a given team have lost all of their lives. The winning team is the one who has at least one player with one life remaining
     - Scores are reported on Challonge as the number of remaining lives for each team
     - Remaining lives do not carry over from one round to the next, and the lives counter is reset every round
+- **Ties:** In case the current game ends in a tie, both players lose a life. If the tie leads to both teams having lost all of their lives, then the game is replayed until the tie is broken.
 
 ### Street Fighter 6
 
@@ -160,4 +161,5 @@ __**Please note that teams with players playing on Wi-Fi will be disqualified.**
 
 ## Changelog
 
+- 2023/12/12 - 11:30 UTC: Added rules about ties
 - 2023/11/28 - 18:40 UTC: First version

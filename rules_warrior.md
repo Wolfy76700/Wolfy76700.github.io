@@ -88,6 +88,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 ## Game-specific rules
 
 - In all of the following rulesets, the highest seeded player is referred to as Player 1 and his opponent as Player 2 by default. The players may however agree to switch sides. If the players disagree to switching sides, they may ask a TO to [flip a coin](https://justflipacoin.com/) to decide who is Player 1 and who is Player 2.
+- **Ties:** In case the current game ends in a tie, both players get a point. If the tie is decisive (e.g. a tie after a 2-2 situation in a FT3 match) then the game is replayed until the tie is broken.
 
 ### Street Fighter 6
 
@@ -125,6 +126,7 @@ __**Please note that players playing on Wi-Fi will be disqualified.**__
 
 ## Changelog
 
+- 2023/12/12 - 11:30 UTC: Added rules about ties
 - 2023/11/28 - 18:40 UTC: Fixed typos
 - 2023/10/31 - 10:15 UTC: Added ruling on no-shows during matches
 - 2023/10/25 - 09:25 UTC: Added legal information pertaining to Capcom IPs

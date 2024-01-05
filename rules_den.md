@@ -31,7 +31,9 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Idol Showdown](#idol-showdown)
     - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
     - [Karnov's Revenge](#karnovs-revenge)
+    - [The King of Fighters ’98 Ultimate Match Final Showdown](#the-king-of-fighters-98-ultimate-match-final-showdown)
     - [The King of Fighters XV](#the-king-of-fighters-xv)
+    - [Pocket Bravery](#pocket-bravery)
     - [Real Bout Fatal Fury 2: The Newcomers](#real-bout-fatal-fury-2-the-newcomers)
     - [Samurai Shodown (2019)](#samurai-shodown-2019)
     - [Street Fighter Alpha 3](#street-fighter-alpha-3)
@@ -161,12 +163,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - The tournament is played in a **First to 2** format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
-- You can switch characters if you lost the previous game, however the winner cannot switch characters
-- **Regarding Stream matches:**
-  - Stream matches will be viewed thanks to VDO Ninja.
-  - One of the two players will have to join the VDO Ninja room in order to stream their match. Please make sure to use the "Screenshare" option and select the game window in order to avoid doxxing yourself on stream
-  - Make sure to leave the VDO Ninja room once your match is over
-  - Game sound will be off during the stream
+- You can switch characters and assists if you lost the previous game, however the winner cannot switch characters or assists
 
 ### JoJo's Bizarre Adventure: Heritage for the Future
 
@@ -191,6 +188,20 @@ Some additional requirements may need to be met in order to claim their prize, s
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
+### The King of Fighters ’98 Ultimate Match Final Showdown
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed except for the following:
+    - Orochi Leona
+    - Orochi Iori
+    - Omega Rugal
+    - Goenitz
+    - Orochi
+- All Power Modes are allowed
+- You can switch characters or power modes if you lost the previous game, however the winner cannot switch characters or power modes
+- You can change the order of your characters at any point during the set
+
 ### The King of Fighters XV
 
 - The tournament is played in a **First to 2** format
@@ -198,6 +209,13 @@ Some additional requirements may need to be met in order to claim their prize, s
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - You can change the order of your characters at any point during the set
+
+### Pocket Bravery
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
 
 ### Real Bout Fatal Fury 2: The Newcomers
 
@@ -305,6 +323,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/01/05 - 19:10 UTC: Added rules for KOF98 UMFE & Pocket Bravery, removed spectator rules for Idol Showdown
 - 2023/12/12 - 11:30 UTC: Added rules about ties
 - 2023/11/28 - 18:40 UTC: Fixed typos
 - 2023/11/27 - 16:10 UTC: Added rules for Idol Showdown

@@ -192,7 +192,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 - The tournament is played in a **First to 2** format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
-- All characters are allowed except for the following:
+- All characters (including alternate versions) are allowed except for the following:
     - Orochi Leona
     - Orochi Iori
     - Omega Rugal

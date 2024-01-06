@@ -31,7 +31,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Idol Showdown](#idol-showdown)
     - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
     - [Karnov's Revenge](#karnovs-revenge)
-    - [The King of Fighters ’98 Ultimate Match Final Showdown](#the-king-of-fighters-98-ultimate-match-final-showdown)
+    - [The King of Fighters ’98 Ultimate Match Final Edition](#the-king-of-fighters-98-ultimate-match-final-edition)
     - [The King of Fighters XV](#the-king-of-fighters-xv)
     - [Pocket Bravery](#pocket-bravery)
     - [Real Bout Fatal Fury 2: The Newcomers](#real-bout-fatal-fury-2-the-newcomers)
@@ -188,7 +188,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
-### The King of Fighters ’98 Ultimate Match Final Showdown
+### The King of Fighters ’98 Ultimate Match Final Edition
 
 - The tournament is played in a **First to 2** format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
@@ -323,6 +323,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/01/06 - 10:26 UTC: Fixed typo
 - 2024/01/05 - 19:10 UTC: Added rules for KOF98 UMFE & Pocket Bravery, removed spectator rules for Idol Showdown
 - 2023/12/12 - 11:30 UTC: Added rules about ties
 - 2023/11/28 - 18:40 UTC: Fixed typos

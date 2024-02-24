@@ -9,41 +9,47 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
 ***
 
 ## Table of contents
+<!-- TOC -->
+
 - [Battle for the Den General Ruleset](#battle-for-the-den-general-ruleset)
-  - [Table of contents](#table-of-contents)
-  - [Preface](#preface)
-  - [Discord](#discord)
-  - [Language](#language)
-  - [Registration](#registration)
-  - [Check-in](#check-in)
-  - [Starting the tournament](#starting-the-tournament)
-  - [Getting into a game](#getting-into-a-game)
-  - [Sportsmanship and lag](#sportsmanship-and-lag)
-  - [Region-locked tournament](#region-locked-tournament)
-    - [Region guide](#region-guide)
-  - [Cash prizes](#cash-prizes)
-  - [Game-specific rules](#game-specific-rules)
-    - [Breakers Revenge](#breakers-revenge)
-    - [Fighting EX Layer: Another Dash](#fighting-ex-layer-another-dash)
-    - [Garou: Mark of the Wolves](#garou-mark-of-the-wolves)
-    - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
-    - [Guilty Gear XX Accent Core +R](#guilty-gear-xx-accent-core-r)
-    - [Idol Showdown](#idol-showdown)
-    - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
-    - [Karnov's Revenge](#karnovs-revenge)
-    - [The King of Fighters ’98 Ultimate Match Final Edition](#the-king-of-fighters-98-ultimate-match-final-edition)
-    - [The King of Fighters XV](#the-king-of-fighters-xv)
-    - [Pocket Bravery](#pocket-bravery)
-    - [Real Bout Fatal Fury 2: The Newcomers](#real-bout-fatal-fury-2-the-newcomers)
-    - [Samurai Shodown (2019)](#samurai-shodown-2019)
-    - [Street Fighter Alpha 3](#street-fighter-alpha-3)
-    - [Street Fighter III: Second Impact](#street-fighter-iii-second-impact)
-    - [Street Fighter III: Third Strike](#street-fighter-iii-third-strike)
-    - [Them's Fightin' Herds](#thems-fightin-herds)
-    - [Vampire Savior](#vampire-savior)
-    - [Windjammers 2](#windjammers-2)
-  - [Addendum](#addendum)
-  - [Changelog](#changelog)
+    - [Table of contents](#table-of-contents)
+    - [Preface](#preface)
+    - [Discord](#discord)
+    - [Language](#language)
+    - [Registration](#registration)
+    - [Check-in](#check-in)
+    - [Starting the tournament](#starting-the-tournament)
+    - [Getting into a game](#getting-into-a-game)
+    - [Sportsmanship and lag](#sportsmanship-and-lag)
+    - [Region-locked tournament](#region-locked-tournament)
+        - [Region guide](#region-guide)
+    - [Cash prizes](#cash-prizes)
+    - [Game-specific rules](#game-specific-rules)
+        - [Art of Fighting 3: The Path of the Warrior](#art-of-fighting-3-the-path-of-the-warrior)
+        - [Breakers Revenge](#breakers-revenge)
+        - [Fighting EX Layer: Another Dash](#fighting-ex-layer-another-dash)
+        - [Garou: Mark of the Wolves](#garou-mark-of-the-wolves)
+        - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
+        - [Guilty Gear XX Accent Core +R](#guilty-gear-xx-accent-core-r)
+        - [Idol Showdown](#idol-showdown)
+        - [JoJo's Bizarre Adventure: Heritage for the Future](#jojos-bizarre-adventure-heritage-for-the-future)
+        - [Karnov's Revenge](#karnovs-revenge)
+        - [The King of Fighters ’98 Ultimate Match Final Edition](#the-king-of-fighters-98-ultimate-match-final-edition)
+        - [The King of Fighters XV](#the-king-of-fighters-xv)
+        - [Pocket Bravery](#pocket-bravery)
+        - [Real Bout Fatal Fury 2: The Newcomers](#real-bout-fatal-fury-2-the-newcomers)
+        - [Samurai Shodown 2019](#samurai-shodown-2019)
+        - [Street Fighter Alpha 3](#street-fighter-alpha-3)
+        - [Street Fighter III: Second Impact](#street-fighter-iii-second-impact)
+        - [Street Fighter III: Third Strike](#street-fighter-iii-third-strike)
+        - [Them's Fightin' Herds](#thems-fightin-herds)
+        - [Ultra Fight Da! Kyanta 2](#ultra-fight-da-kyanta-2)
+        - [Vampire Savior](#vampire-savior)
+        - [Windjammers 2](#windjammers-2)
+    - [Addendum](#addendum)
+    - [Changelog](#changelog)
+
+<!-- /TOC -->
 
 ## Preface
 
@@ -118,6 +124,14 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 - In all of the following rulesets, the highest seeded player is referred to as Player 1 and his opponent as Player 2 by default. The players may however agree to switch sides. If the players disagree to switching sides, they may ask a TO to [flip a coin](https://justflipacoin.com/) to decide who is Player 1 and who is Player 2.
 - **Ties:** In case the current game ends in a tie, both players get a point. If the tie is decisive (e.g. a tie after a 2-2 situation in a FT3 match) then the game is replayed until the tie is broken.
+
+### Art of Fighting 3: The Path of the Warrior
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters except Wyler are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+- *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
 ### Breakers Revenge
 
@@ -257,7 +271,9 @@ Some additional requirements may need to be met in order to claim their prize, s
 - The tournament is played in a **First to 2** format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters except Gill are allowed
+- All Supers are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+- You can switch Supers at any time during the match
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 - WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
 
@@ -267,6 +283,13 @@ Some additional requirements may need to be met in order to claim their prize, s
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
+
+### Ultra Fight Da! Kyanta 2
+
+- The tournament is played in a **First to 3** format
+- All characters, ratios, types and Ultras are allowed
+- You can switch characters, ratios or types if you lost the previous game, however the winner cannot switch characters, ratios or types
+- You can switch Utras or change the team order at any time during the set
 
 ### Vampire Savior
 
@@ -323,6 +346,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/02/24 - 15:18 UTC: Added rules for Ultra Fight Da! Kyanta 2, Art of Fighting 3; updated rules for Street Fighter III: Third Strike
 - 2024/01/06 - 10:26 UTC: Fixed typo
 - 2024/01/05 - 19:10 UTC: Added rules for KOF98 UMFE & Pocket Bravery, removed spectator rules for Idol Showdown
 - 2023/12/12 - 11:30 UTC: Added rules about ties

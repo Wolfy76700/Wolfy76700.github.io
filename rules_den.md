@@ -27,6 +27,7 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
     - [Game-specific rules](#game-specific-rules)
         - [Art of Fighting 3: The Path of the Warrior](#art-of-fighting-3-the-path-of-the-warrior)
         - [Breakers Revenge](#breakers-revenge)
+        - [Dan-Ku-Ga](#dan-ku-ga)
         - [Fighting EX Layer: Another Dash](#fighting-ex-layer-another-dash)
         - [Garou: Mark of the Wolves](#garou-mark-of-the-wolves)
         - [Guilty Gear -STRIVE-](#guilty-gear--strive-)
@@ -138,6 +139,14 @@ Some additional requirements may need to be met in order to claim their prize, s
 - The tournament is played in a **First to 2** format
 - **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
 - All characters except Bai-Hu are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+- *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+
+### Dan-Ku-Ga
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
@@ -346,6 +355,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/03/17 - 15:26 UTC: Added rules for Dan-Ku-Ga
 - 2024/02/24 - 15:18 UTC: Added rules for Ultra Fight Da! Kyanta 2, Art of Fighting 3; updated rules for Street Fighter III: Third Strike
 - 2024/01/06 - 10:26 UTC: Fixed typo
 - 2024/01/05 - 19:10 UTC: Added rules for KOF98 UMFE & Pocket Bravery, removed spectator rules for Idol Showdown

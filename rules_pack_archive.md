@@ -9,35 +9,27 @@ So, you want to take part in From Pack to Pack and wonder how it works. Well, he
 ***
 
 ## Table of contents
-<!-- TOC -->
-
 - [From Pack to Pack General Ruleset](#from-pack-to-pack-general-ruleset)
-    - [Table of contents](#table-of-contents)
-    - [Preface](#preface)
-    - [Discord](#discord)
-    - [Language](#language)
-    - [Event course](#event-course)
-        - [Open event](#open-event)
-            - [Registration](#registration)
-            - [Format](#format)
-            - [Pools](#pools)
-            - [Final bracket](#final-bracket)
-        - [Invitational event](#invitational-event)
-            - [Registration](#registration)
-            - [Check-ins](#check-ins)
-            - [Format](#format)
-            - [Starting the event](#starting-the-event)
-            - [Getting into a game](#getting-into-a-game)
-    - [Sportsmanship and lag](#sportsmanship-and-lag)
-    - [Region-locked tournament](#region-locked-tournament)
-        - [Region guide](#region-guide)
-    - [Cash prizes](#cash-prizes)
-    - [Game-specific rules](#game-specific-rules)
-        - [Street Fighter 6](#street-fighter-6)
-    - [Addendum](#addendum)
-    - [Changelog](#changelog)
-
-<!-- /TOC -->
+  - [Table of contents](#table-of-contents)
+  - [Preface](#preface)
+  - [Discord](#discord)
+  - [Language](#language)
+  - [Registration](#registration)
+    - [Invitational event](#invitational-event)
+  - [Check-in](#check-in)
+    - [Open event](#open-event)
+    - [Invitational event](#invitational-event-1)
+  - [Starting the event](#starting-the-event)
+  - [Getting into a game](#getting-into-a-game)
+  - [Sportsmanship and lag](#sportsmanship-and-lag)
+  - [Region-locked tournament](#region-locked-tournament)
+    - [Region guide](#region-guide)
+  - [Cash prizes](#cash-prizes)
+  - [Game-specific rules](#game-specific-rules)
+    - [Street Fighter 6](#street-fighter-6)
+      - [Open format - 3v3](#open-format---3v3)
+  - [Addendum](#addendum)
+  - [Changelog](#changelog)
 
 ## Preface
 
@@ -49,67 +41,32 @@ All participants to a From Pack to Pack event must be present in the [WolfTV Dis
 ## Language
 In order to facilitate communication between players, tournament admins and mods, we request that all people who take part in the From Pack to Pack environment to favor English over other languages. (Although don't worry if your English is on the poor side, as long as we can all understand you)
 
-## Event course
+## Registration
 
-### Open event
-
-#### Registration
-
+### Open event
 Registration for open events in the From Pack to Pack series is done using the corresponding event link. The exact procedure may differ depending on the website used, so make sure to follow the instructions which come up on screen.
 
 Registration deadlines may differ from event to event.
 
 Participants under the age of 18 must submit a consent letter from their parent or legal guardian to the TOs (@The TO Pack in the Discord) and cannot take part in tournaments for games rated PEGI 18. Children under 12 are not allowed to take part in tournaments where cash prizes are involved.
 
-An active subscription to the game platform's online service (e.g. PlayStation Plus, Xbox Game Pass Core, Xbox Game Pass Ultimate, Nintendo Switch Online) may be required for each team member to take part in a given tournament.
-
-By registering, all participants engage themselves to play all of their pools matches during the allocated time span, and to be available for the Semi-Finals and Finals’ time slot.
-
-#### Format
-
-When registering a team, you are invited however to register up to 5 players, however, only 3 players may take part in any given match. The format is as follows:
-
-- In all of the current document, the highest seeded team is referred to as Team 1 and the opposing team as Team 2 by default. The team captains may however agree to switch sides. If the players disagree to switching sides, they may ask a TO to [flip a coin](https://justflipacoin.com/) to decide who is Team 1 and who is Team 2.
-- When starting a match, Team Captains must announce which 3 players in their team will be taking part in the match, with Team 1 announcing their composition before Team 2. Once the team compositions are announced, they cannot be changed for the duration of the match, though the team order is not locked.
-- Both teams send out their first player, with Team 1 announcing their player first. The first set is played.
-    - The format and course for a set depends on the game being played, please refer to [Game-specific rules](#game-specific-rules) for more information
-- Once a set is played to completion, the winning team gets a point, and the player who just lost on the losing team is considered "dead" and can no longer play.
-    - The Captain for the losing team then picks and sends in one of their remaining players, while the winning team cannot swap players.
-    - Set-based advantages are reset for every new set (e.g., the Winner of the previous set is not beholden to his character choice for Game 1 of the new set)
-- The process gets repeated until all three of the players announced at the start are defeated. The Team Captain is then responsible for reporting the score on the bracket managing website.
-- **Ties:** In case the current game ends in a tie, both players get a point. If the tie is decisive for the set (e.g. a tie after a 2-2 situation in a FT3 match) then the game is replayed until the tie is broken.
-
-#### Pools
-
-Pools will be finalized the day before the event. Once pools are finalized, the TO will announce on both [FGC.Network](https://fgc.network/@WolfTV) and the [Discord server](https://discord.gg/xFejWpb) that matches can now be played.
-
-Team captains are responsible for making sure all of their pools matches are played during the 3-week period allocated to pools, and scheduling accordingly.
-
-Each team is heavily encouraged to stream their matches on their own. No pools stream will be organized by WolfTV.
-
-#### Final bracket
-
-The final bracket will be a single-elimination event featuring the best teams from Pools. Semi-Finals and Finals will be played on stream on two different time slots, announced alongside the event by the TO.
+An active subscription to the game platform's online service (e.g. PlayStation Plus, Xbox Game Pass Core, Xbox Game Pass Ultimate) may be required for each team member to take part in a given tournament.
 
 ### Invitational event
-
-#### Registration
-
 Invitational events in the From Pack to Pack series are limited to entrants predetermined by the TO of said event.
 
-#### Check-ins
+## Check-in
 
-Check-ins for invitational events are handled on a case by case basis. Please refer to the event’s TO ahead of time for more information.
+### Open event
+The team captain will be required to check-in before the event starts. The check-in period begins 30 minutes before the event starts and ends on the planned start time and will be done through the specific event page (The one where you registered) **No admin-side check-in will be done before, during or after the check-in period** outside of very specific cases, so don't forget to check-in!
 
-#### Format
+### Invitational event
+Check-ins for invitational events is handled on a case by case basis. Please refer to the event’s TO ahead of time for more information
 
-Invitational events ane designed to be able to be ran in a single day. The format for invitational events is defined on a case by case basis. Please refer to the event’s TO ahead of time for more information.
-
-#### Starting the event
-
+## Starting the event
 Once you are checked-in, you will have to wait for the event to start. A tournament admin will ping the specific game role when the tournament is ready to start. As such, **any games played before the admin greenlight will not count towards tournament results**.
 
-#### Getting into a game
+## Getting into a game
 Once the tournament starts, the tournament admin will call out which rounds of the tournament can be played. **Please wait until your current tournament round has been called out before playing the associated match**.
 
 In order to communicate with your opponent, you can use any of the numbered arena channels. We heavily encourage the use of said channels in order to exchange Online IDs and player interaction over other systems, including the chatboxes which may be provided on the event page.
@@ -155,9 +112,24 @@ Some additional requirements may need to be met in order to claim their prize, s
 
 ## Game-specific rules
 
+- In all of the following rulesets, the highest seeded team is referred to as Team 1 and the opposing team as Team 2 by default. The team captains may however agree to switch sides. If the players disagree to switching sides, they may ask a TO to [flip a coin](https://justflipacoin.com/) to decide who is Team 1 and who is Team 2.
+- **Life-based format:** Unless specified otherwise, all matches in From Pack to Pack events use a life-based format.
+    - Each player in a team has a set amount of lives at the start of a match
+    - Losing a game during a match means the player loses a life
+    - The winning player must stay on
+    - Team captains may decide to either leave the current player in or switch them out with another player upon losing a life
+    - A player who lost all of their lives cannot take part in the match anymore. If the player just lost their last life they must be switched out
+    - The match ends when all of the players in a given team have lost all of their lives. The winning team is the one who has at least one player with one life remaining
+    - Scores are reported on Challonge as the number of remaining lives for each team
+    - Remaining lives do not carry over from one round to the next, and the lives counter is reset every round
+- **Ties:** In case the current game ends in a tie, both players lose a life. If the tie leads to both teams having lost all of their lives, then the game is replayed until the tie is broken.
+
 ### Street Fighter 6
 
-- Sets are played in a **First to 2** format
+#### Open format - 3v3
+
+- Each player starts their matches with one life
+- Each player starts **Grand Finals** with two lives
 - All characters are allowed
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
 - All platforns are allowed
@@ -189,6 +161,5 @@ __**Please note that teams with players playing on Wi-Fi will be disqualified.**
 
 ## Changelog
 
-- 2024/03/17 - 14:52 UTC: Heavily revamped the page to accomodate for the new open format
 - 2023/12/12 - 11:30 UTC: Added rules about ties
 - 2023/11/28 - 18:40 UTC: First version

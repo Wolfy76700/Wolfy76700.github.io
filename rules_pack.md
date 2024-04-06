@@ -83,7 +83,7 @@ When registering a team, you are invited however to register up to 5 players, ho
 
 Pools will be finalized the day before the event. Once pools are finalized, the TO will announce on both [FGC.Network](https://fgc.network/@WolfTV) and the [Discord server](https://discord.gg/xFejWpb) that matches can now be played.
 
-Team captains are responsible for making sure all of their pools matches are played during the 3-week period allocated to pools, and scheduling accordingly. Team Captains need to warn the TOs as soon as a match is scheduled, and scores need to be reported as soon as a match is played.
+Team captains are responsible for making sure all of their pools matches are played during the 2-week period allocated to pools, and scheduling accordingly. Team Captains need to warn the TOs as soon as a match is scheduled, and scores need to be reported as soon as a match is played.
 
 Each team is heavily encouraged to stream their matches on their own. No pools stream will be organized by WolfTV.
 
@@ -132,7 +132,7 @@ Some tournaments may be locked to certain parts of the world. If so, please only
 
 - 🇮🇳 **Central Asia:** India, Russia-Center (Siberian, Ural), Pakistan
 - 🇯🇵 **East Asia:** Japan, China, Taiwan, Hong Kong, South Korea, Singapore, Russia-East (Far Eastern)
-- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga), Israel, Palestine
+- 🇪🇺 **Europe:** Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, United Kingdom (England, Scotland, Wales, Northern Ireland), Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga), Israel, Palestine
     - ***Western Europe:** United Kingdom, Ireland, France, Spain, Portugal, Italy, Belgium, Netherlands, Switzerland, Monaco, Andorra, Vatican City, Liechtenstein, San Marino, Malta, Luxembourg*
     - ***Central Europe:** Germany, Poland, Czechia, Slovakia, Austria, Hungary, Slovenia*
     - ***Northern Europe:** Norway, Sweden, Finland, Denmark, Estonia, Latvia, Lithuania, Russia-Kaliningrad*
@@ -189,6 +189,7 @@ __**Please note that teams with players playing on Wi-Fi will be disqualified.**
 
 ## Changelog
 
+- 2024/04/06 - 19:14 UTC: Clarified European Union, United Kingdom; Fixed length of pools phase
 - 2024/03/17 - 16:26 UTC: Added precisions in ruleset
 - 2024/03/17 - 14:52 UTC: Heavily revamped the page to accomodate for the new open format
 - 2023/12/12 - 11:30 UTC: Added rules about ties

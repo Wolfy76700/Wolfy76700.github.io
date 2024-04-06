@@ -100,7 +100,7 @@ Some tournaments may be locked to certain parts of the world. If so, please only
 
 - 🇮🇳 **Central Asia:** India, Russia-Center (Siberian, Ural), Pakistan
 - 🇯🇵 **East Asia:** Japan, China, Taiwan, Hong Kong, South Korea, Singapore, Russia-East (Far Eastern)
-- 🇪🇺 **Europe:** European Union, United Kingdom, Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga), Israel, Palestine
+- 🇪🇺 **Europe:** Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, United Kingdom (England, Scotland, Wales, Northern Ireland), Norway, Switzerland, Monaco, Andorra, Vatican City, San Marino, Montenegro, Liechtenstein, Bosnia and Herzegovina, Serbia, Albania, Moldova, Kosovo, North Macedonia, Turkey, Ukraine, Russia-West (Northwestern, Central, North Caucasian, Southern, Crimea, Volga), Israel, Palestine
     - ***Western Europe:** United Kingdom, Ireland, France, Spain, Portugal, Italy, Belgium, Netherlands, Switzerland, Monaco, Andorra, Vatican City, Liechtenstein, San Marino, Malta, Luxembourg*
     - ***Central Europe:** Germany, Poland, Czechia, Slovakia, Austria, Hungary, Slovenia*
     - ***Northern Europe:** Norway, Sweden, Finland, Denmark, Estonia, Latvia, Lithuania, Russia-Kaliningrad*
@@ -355,6 +355,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/04/06 - 19:14 UTC: Clarified European Union, United Kingdom
 - 2024/03/17 - 15:26 UTC: Added rules for Dan-Ku-Ga
 - 2024/02/24 - 15:18 UTC: Added rules for Ultra Fight Da! Kyanta 2, Art of Fighting 3; updated rules for Street Fighter III: Third Strike
 - 2024/01/06 - 10:26 UTC: Fixed typo

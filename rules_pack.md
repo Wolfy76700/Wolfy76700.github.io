@@ -35,6 +35,8 @@ So, you want to take part in From Pack to Pack and wonder how it works. Well, he
     - [Game-specific rules](#game-specific-rules)
         - [Street Fighter 6](#street-fighter-6)
     - [Addendum](#addendum)
+    - [Appendix](#appendix)
+        - [Timezone maps](#timezone-maps)
     - [Changelog](#changelog)
 
 <!-- /TOC -->
@@ -44,7 +46,7 @@ So, you want to take part in From Pack to Pack and wonder how it works. Well, he
 WolfTV abides by a strict no-hate policy as well as the [Fighting Game Code of Conduct](https://fgcoc.com/). Please refer to the #rules channel in the [WolfTV Discord](https://discord.gg/xFejWpb) for more information.
 
 ## Discord
-All participants to a From Pack to Pack event must be present in the [WolfTV Discord](https://discord.gg/xFejWpb) and assign themselves From Pack to Pack role. **Failure to join the WolfTV Discord for any team member will result in an automatic diqualification for the entire team.**
+All participants to a From Pack to Pack - Open event must be present in the [WolfTV Discord](https://discord.gg/xFejWpb) and assign themselves From Pack to Pack - Open role. **As communication between the teams and the TOs is primarily handled by the captain, failure to join the WolfTV Discord for the captain will result in an automatic diqualification for the entire team.**
 
 ## Language
 In order to facilitate communication between players, tournament admins and mods, we request that all people who take part in the From Pack to Pack environment to favor English over other languages. (Although don't worry if your English is on the poor side, as long as we can all understand you)
@@ -65,6 +67,8 @@ An active subscription to the game platform's online service (e.g. PlayStation P
 
 By registering, all participants engage themselves to play all of their pools matches during the allocated time span, and to be available for the Semi-Finals and Finals’ time slot.
 
+All players for all teams, including potential bench players, must be registered before the Pools Draw stream. **No additional player or team will be accepted after the pools draw.**
+
 #### Format
 
 When registering a team, you are invited however to register up to 5 players, however, only 3 players may take part in any given match. The format is as follows:
@@ -81,15 +85,26 @@ When registering a team, you are invited however to register up to 5 players, ho
 
 #### Pools
 
-Pools will be finalized the day before the event. Once pools are finalized, the TO will announce on both [FGC.Network](https://fgc.network/@WolfTV) and the [Discord server](https://discord.gg/xFejWpb) that matches can now be played.
+Pools will be finalized during a Pools Draw stream. Once pools are finalized, the TO will announce on both [FGC.Network](https://fgc.network/@WolfTV) and the [Discord server](https://discord.gg/xFejWpb) that matches can now be played.
 
-Team captains are responsible for making sure all of their pools matches are played during the 2-week period allocated to pools, and scheduling accordingly. Team Captains need to warn the TOs as soon as a match is scheduled, and scores need to be reported as soon as a match is played.
+Team captains are responsible for making sure all of their pools matches are played during the 2-week period allocated to pools, and scheduling accordingly. Team Captains need to warn the TOs as soon as a match is scheduled, and scores need to be reported to the TOs as soon as a match is played.
+
+In order to more easily schedule the matches, we recommend the use of tools like [HammerTime](https://hammertime.cyou/), which can generate a timestamp which can be pasted in Discord. This allows for everyone to see the timestamp in their local timezone.
+
+For easier communication we request that each pool match has its own thread in #pack-match-chat where both teams and the TOs can communicate between each other. The thread title should ideally follow the following format:  
+     `[Open {number} - Pool {letter}] {Team 1} VS {Team 2}` (e.g. `[Open 2 - Pool B] Fadee Gaming VS Les Presque PHX`)
 
 Each team is heavily encouraged to stream their matches on their own. No pools stream will be organized by WolfTV.
+
+Pools matches will be have individual event pages on Discord with the links to each match’s announced streams. For an easier organisation, as well as social media purposes, we request that matches happening on a given day are reported to the TOs at least before 10:00 CET/CEST¹ the day the match happens. This of course does not apply to matches happening the day of the Pools Draw.
+
+¹ *Depending on whether Daylight savings are on. Corresponds to UTC+1/UTC+2 respectively.*
 
 #### Final bracket
 
 The final bracket will be a single-elimination event featuring the best teams from Pools. Semi-Finals and Finals will be played on stream on two different time slots, announced alongside the event by the TO.
+
+During the stream, all communication between the TOs, streamers, captains and players will be done through the #pack-stream-arena channel
 
 ### Invitational event
 
@@ -187,8 +202,63 @@ __**Please note that teams with players playing on Wi-Fi will be disqualified.**
 - Using software hacks to tamper with the game’s programming or your inputs will result in a permanent ban from all future WolfTV events for the guilty player, and an event ban for the team. Examples include (but are not limited to) using hacks to automatically react to Drive Impact or instantly block overheads in Street Fighter 6, or using hacks to play as NPC bosses in KOFXV (e.g. Re Verse, Otoma=Raga, Rugal-Boss, Goenitz-Boss)
     - Cosmetic mods are allowed as long as they don’t interfere with the gameplay or the game’s online connectivity. Examples include (but are not limited to) most palette swap mods in Fightcade, the English voice mod in DNF Duel or most Potato mods
 
+## Appendix
+
+### Timezone maps
+
+Add +1 wherever and whenever Daylight Savings apply. For more info about where Daylight Savings apply: https://en.wikipedia.org/wiki/Daylight_saving_time_by_country
+
+<details>
+<summary>Africa</summary>
+
+![Timezone map for Africa](https://ontheworldmap.com/africa/africa-time-zone-map.jpg)
+
+*Credit: Ontheworldmap.com*
+</details>
+
+<details>
+<summary>Asia</summary>
+
+![Timezone map for Asia](https://ontheworldmap.com/asia/asia-time-zone-map.jpg)
+
+*Credit: Ontheworldmap.com*
+</details>
+
+<details>
+<summary>Europe</summary>
+
+![Timezone map for Europe](https://ontheworldmap.com/europe/europe-time-zone-map.jpg)
+
+*Credit: Ontheworldmap.com*
+</details>
+
+<details>
+<summary>North America</summary>
+
+![Timezone map for North America](https://ontheworldmap.com/north-america/north-america-time-zone-map.jpg)
+
+*Credit: Ontheworldmap.com*
+</details>
+
+<details>
+<summary>Oceania</summary>
+
+![Timezone map for Oceania](https://ontheworldmap.com/oceania/oceania-time-zone-map.jpg)
+
+*Credit: Ontheworldmap.com*
+</details>
+
+<details>
+<summary>South America</summary>
+
+![Timezone map for South America](https://ontheworldmap.com/south-america/south-america-time-zone-map.jpg)
+
+*Credit: Ontheworldmap.com*
+</details>
+
 ## Changelog
 
+- 2024/04/25 - 19:30 UTC: Revamped pools section; added stricter ruling on registration; added timezone maps
 - 2024/04/06 - 19:14 UTC: Clarified European Union, United Kingdom; Fixed length of pools phase
 - 2024/03/17 - 16:26 UTC: Added precisions in ruleset
 - 2024/03/17 - 14:52 UTC: Heavily revamped the page to accomodate for the new open format

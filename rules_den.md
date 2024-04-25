@@ -80,9 +80,9 @@ Once you are checked-in, you will have to wait for the tournament to start. A to
 ## Getting into a game
 Once the tournament starts, the tournament admin will call out which rounds of the tournament can be played. **Please wait until your current tournament round has been called out before playing the associated match**.
 
-In order to communicate with your opponent, you can use any of the numbered arena channels. We heavily encourage the use of said channels in order to exchange Online IDs and player interaction over other systems, including the chatboxes which may be provided on the event page.
+In order to communicate with your opponent, you can use the #singles-general channel. Please be aware though that said channel may get easily cluttered, so we recommend you create a thread there if you want to communicate with your opponent.
 
-Sometimes, tournament admins may decide a match should be streamed live. In this case, players involved in the match will be informed at the same time the tournament round gets called out, and communication will happen using the #stream-arena channel. Please note **the #stream-arena channel cannot be used for non-streamed matches**.
+Sometimes, tournament admins may decide a match should be streamed live. In this case, players involved in the match will be informed at the same time the tournament round gets called out, and communication will happen using the #singles-stream-arena channel. Please note **the #singles-stream-arena channel cannot be used for non-streamed matches**.
 
 **If you do not show up to your match in the 10 minutes after it was marked as both playable and available, you will be DQed.** If you are playing in another online bracket at the same time, please warn The TO Pack before the tournament starts and eventually indicate in your Discord nickname that you are plaing in said other bracket.
 
@@ -355,6 +355,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/04/25 - 19:05 UTC: Removed individual arena channels, renamed Discord channels
 - 2024/04/06 - 19:14 UTC: Clarified European Union, United Kingdom
 - 2024/03/17 - 15:26 UTC: Added rules for Dan-Ku-Ga
 - 2024/02/24 - 15:18 UTC: Added rules for Ultra Fight Da! Kyanta 2, Art of Fighting 3; updated rules for Street Fighter III: Third Strike

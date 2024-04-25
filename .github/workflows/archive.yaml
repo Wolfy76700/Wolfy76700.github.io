@@ -4,12 +4,13 @@ on:
 jobs:
   save:
     name: Save rules
-    uses: JamieMagee/wayback@v2.1.0
-    with:
-      url: |-
-        https://wolfy76700.github.io/rules_den.html
-        https://wolfy76700.github.io/rules_warrior.html
-        https://wolfy76700.github.io/rules_pack.html
-      saveErrors: true
-      saveOutlinks: true
-      saveScreenshot: true
+    steps:
+    - uses: JamieMagee/wayback@v2.1.0
+      with:
+        url: |-
+          https://wolfy76700.github.io/rules_den.html
+          https://wolfy76700.github.io/rules_warrior.html
+          https://wolfy76700.github.io/rules_pack.html
+        saveErrors: true
+        saveOutlinks: true
+        saveScreenshot: true

@@ -175,7 +175,7 @@ Some additional requirements may need to be met in order to claim their prize, s
 - Sets are played in a **First to 2** format
 - All characters are allowed
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
-- All platforns are allowed
+- All platforms are allowed
 - You can switch characters and control mode if you lost the previous game and stay in, however the winner cannot switch characters
 - WolfTV and the From Pack to Pack series are not affiliated with or sponsored by Capcom
 

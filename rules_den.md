@@ -329,6 +329,7 @@ Some additional requirements may need to be met in order to claim their prize, s
     9.  Repeat steps 6 to 8 until a winner is determined
 - **Stage selection:**
     - __Starters:__ [Beach](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/beach.png), [Clay](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/clay.png), [Lawn](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/lawn.png), [Arena](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/arena.png), [Tiled](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/tiled.png), [Rooftop](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/roof.png), [Ring](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/ring.png), [Junkyard](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/junk.png), [Stadium](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/stadium.png)
+- All platforms are allowed
 
 ## Addendum
 

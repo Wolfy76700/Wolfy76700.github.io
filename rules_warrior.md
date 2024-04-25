@@ -97,7 +97,7 @@ Some additional requirements may need to be met in order to claim their prize, s
     - Top 6 includes Winners Semis, Winners Finals, Losers Quarters, Losers Semis, Losers Finals and Grand Finals
 - All characters are allowed
 - Classic and Modern control modes are allowed. Dynamic controls are banned.
-- All platforns are allowed
+- All platforms are allowed
 - You can switch characters and control mode if you lost the previous game, however the winner cannot switch characters
 - WolfTV and the Wolf Warrior series are not affiliated with or sponsored by Capcom
 

@@ -39,10 +39,12 @@ So, you want to take part in Battle for the Den and wonder how it works. Well, h
         - [The King of Fighters XV](#the-king-of-fighters-xv)
         - [Pocket Bravery](#pocket-bravery)
         - [Real Bout Fatal Fury 2: The Newcomers](#real-bout-fatal-fury-2-the-newcomers)
+        - [Rivals 2](#rivals-2)
         - [Samurai Shodown 2019](#samurai-shodown-2019)
         - [Street Fighter Alpha 3](#street-fighter-alpha-3)
         - [Street Fighter III: Second Impact](#street-fighter-iii-second-impact)
         - [Street Fighter III: Third Strike](#street-fighter-iii-third-strike)
+        - [Street Fighter The Movie](#street-fighter-the-movie)
         - [Them's Fightin' Herds](#thems-fightin-herds)
         - [Ultra Fight Da! Kyanta 2](#ultra-fight-da-kyanta-2)
         - [Vampire Savior](#vampire-savior)
@@ -248,6 +250,35 @@ Some additional requirements may need to be met in order to claim their prize, s
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 
+### Rivals 2
+
+- The tournament is played in a **First to 2** format
+- **Top 6** is played in a **First to 3** format
+    - Top 6 includes Winners Semis, Winners Finals, Losers Quarters, Losers Semis, Losers Finals and Grand Finals
+- All characters are allowed
+- **Gentlemen's Clause:** A game can be played on any stage in the game if the players agree to it
+- **Set Procedure:**
+    1. Players select their charactersPlayers select their characters
+    2. Player 1 bans one starter stage
+    3. Player 2 bans two starter stages
+    4. Player 1 picks the first game stage among the two remaining starter stages
+    5. Game 1 is played
+    6. The winner of the previous game bans two stages from the full stage list
+    7. The loser of the previous game picks the next game stage among the remaining stages
+    8. The winner announces any character switch
+    9.  The loser announces any character switch
+    10.  Play the next game
+    11.  Repeat steps 6 to 10 until a winner is determined
+- **Stage selection:**
+    - __Starters:__ [Aetherian Forest](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/AetherianForest.png), [Julesvale](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/Julesvale.png), [Merchant Port](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/MerchantPort.png), [Godai Delta](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/GodaiDelta.png), [Hodojo](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/Hodojo.png)
+    - __Counterpicks:__ [Hyperborean Harbor](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/HyperboreanHarbor.png), [Rock Wall](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/RockWall.png), [Air Armada](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/AirArmada.png), [Tempest Peak](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/TempestPeak.png), [Fire Capital](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/roa2/stage_icon/FireCapital.png)
+- **Dave’s Stupid Rule:** You cannot pick a stage you’ve already won on during the set
+- Out of region players are allowed in the tournament at their own risk, as long as they connect to one of the following servers:
+    - For Europe & Maghreb region tournaments:
+        - France
+        - North Europe
+        - West Europe
+
 ### Samurai Shodown (2019)
 
 - The tournament is played in a **First to 2** format
@@ -286,6 +317,16 @@ Some additional requirements may need to be met in order to claim their prize, s
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
 - WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
 
+### Street Fighter The Movie
+
+- The tournament is played in a **First to 2** format
+- **Winners Finals, Losers Semis, Losers Finals and Grand Finals** are played in a **First to 3** format
+- All characters are allowed
+- You can switch characters if you lost the previous game, however the winner cannot switch characters
+- The Super Armor glitch is banned (Affected characters: Guile, Ken, Zangief)
+- *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
+- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
+
 ### Them's Fightin' Herds
 
 - The tournament is played in a **First to 2** format
@@ -308,7 +349,8 @@ Some additional requirements may need to be met in order to claim their prize, s
 - All characters are allowed
 - You can switch characters if you lost the previous game, however the winner cannot switch characters
 - *(Fightcade)* Please do not spectate the stream matches directly on Fightcade as this may cause techinical issues
-- 
+- WolfTV and the Battle for the Den series are not affiliated with or sponsored by Capcom
+
 ### Windjammers 2
 
 - The tournament is played in a **First to 2** format
@@ -326,9 +368,10 @@ Some additional requirements may need to be met in order to claim their prize, s
     6. The winner announces any character switch
     7.  The loser announces any character switch
     8.  Play the next game
-    9.  Repeat steps 6 to 8 until a winner is determined
+    9.  Repeat steps 4 to 8 until a winner is determined
 - **Stage selection:**
     - __Starters:__ [Beach](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/beach.png), [Clay](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/clay.png), [Lawn](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/lawn.png), [Arena](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/arena.png), [Tiled](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/tiled.png), [Rooftop](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/roof.png), [Ring](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/ring.png), [Junkyard](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/junk.png), [Stadium](https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/stage_icon/stadium.png)
+- **Dave’s Stupid Rule:** You cannot pick a stage you’ve already won on during the set
 - All platforms are allowed
 
 ## Addendum
@@ -356,6 +399,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/06/27 - 12:28 UTC: Added rules for Rivals 2, Street Fighter The Movie; Updated stage rules for Windjammers 2
 - 2024/04/25 - 19:05 UTC: Removed individual arena channels, renamed Discord channels
 - 2024/04/06 - 19:14 UTC: Clarified European Union, United Kingdom
 - 2024/03/17 - 15:26 UTC: Added rules for Dan-Ku-Ga

@@ -98,6 +98,8 @@ Each team is heavily encouraged to stream their matches on their own. No pools s
 
 Pools matches will be have individual event pages on Discord with the links to each match’s announced streams. For an easier organisation, as well as social media purposes, we request that matches happening on a given day are reported to the TOs at least before 10:00 CET/CEST¹ the day the match happens. This of course does not apply to matches happening the day of the Pools Draw.
 
+**Teams who are late to a scheduled pool match by more than 15 minutes will be DQed from said match.** The score in case of DQ will be 3-0 to the other team in order to not penalize the team which was present.
+
 ¹ *Depending on whether Daylight savings are on. Corresponds to UTC+1/UTC+2 respectively.*
 
 #### Final bracket
@@ -252,6 +254,7 @@ Add +1 wherever and whenever Daylight Savings apply. For more info about where D
 
 ## Changelog
 
+- 2024/05/27 - 12:05 UTC: Added DQ rule for punctuality
 - 2024/04/25 - 19:30 UTC: Revamped pools section; added stricter ruling on registration; added timezone maps
 - 2024/04/06 - 19:14 UTC: Clarified European Union, United Kingdom; Fixed length of pools phase
 - 2024/03/17 - 16:26 UTC: Added precisions in ruleset

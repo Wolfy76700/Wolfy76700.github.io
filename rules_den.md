@@ -278,6 +278,7 @@ Some additional requirements may need to be met in order to claim their prize, s
         - France
         - North Europe
         - West Europe
+    - Note: Out of region players will still be DQed by default if the ping makes it unplayable for in-region players, or if they fail to connect to the indicated servers.
 
 ### Samurai Shodown (2019)
 
@@ -399,6 +400,7 @@ __**Please note that by default, players playing on Wi-Fi will be disqualified w
 
 ## Changelog
 
+- 2024/06/28 - 17:08 UTC: Added DQ clause for out of region players in Rivals 2
 - 2024/06/27 - 12:28 UTC: Added rules for Rivals 2, Street Fighter The Movie; Updated stage rules for Windjammers 2
 - 2024/04/25 - 19:05 UTC: Removed individual arena channels, renamed Discord channels
 - 2024/04/06 - 19:14 UTC: Clarified European Union, United Kingdom
